@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "3593d15b-9df5-45eb-ae8d-4db882e6449e",
+            "Value": {
+                "id": "99af6542-3b37-4667-9d5f-bdb430602677",
+                "resourcePath": "sprites\\spr_BlockOutLeft\\spr_BlockOutLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3d82803c-b66b-49f9-82f1-a278f8862f19",
             "Value": {
                 "id": "b6659637-8999-4b05-99a8-f6155d869834",
@@ -127,6 +135,22 @@
             }
         },
         {
+            "Key": "aba1fca1-a5ef-41cd-97f7-9139e5bec7cb",
+            "Value": {
+                "id": "18e078e0-8dbd-45f0-8b2d-8f26d97f83e3",
+                "resourcePath": "sprites\\spr_BlockOutRight\\spr_BlockOutRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bff21301-03f9-435c-b55d-664ff9654a49",
+            "Value": {
+                "id": "1ea5f08b-d357-4e1a-9299-97ba4df01268",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c932fc0e-60d9-4cc0-b052-c99175f896cb",
             "Value": {
                 "id": "f1f7ab9c-7a20-4b74-a564-d9b08edae4ba",
@@ -180,6 +204,22 @@
                 "id": "d08dbc20-6347-499d-9090-05ed2e4f5c2a",
                 "resourcePath": "views\\eb70656e-2998-4c2f-b820-10843899bfc0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ec77c3c2-fa6d-43ad-85db-c42ef9202835",
+            "Value": {
+                "id": "5ce2df63-caf3-4f35-bd3f-5b28683c9e0c",
+                "resourcePath": "sprites\\spr_BlockOutFront\\spr_BlockOutFront.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f2b70014-a20e-4005-895b-95ad171bd421",
+            "Value": {
+                "id": "4e9f95e2-d31c-4cd5-89ee-3ddca6b33fb8",
+                "resourcePath": "sprites\\spr_BlockOutRear\\spr_BlockOutRear.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
