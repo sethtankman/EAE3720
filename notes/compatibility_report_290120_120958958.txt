@@ -1,0 +1,11 @@
+Converting GML script: ${project_dir}\objects\Arrow1_HighlightParent\Create_0.gml
+Converted description /// @description Set init mouse-over state
+
+Converting GML script: ${project_dir}\objects\Arrow1_HighlightParent\Mouse_11.gml
+Converted description /// @description Mouse has left
+
+Converting GML script: ${project_dir}\objects\Arrow1_HighlightParent\Mouse_10.gml
+Converted description /// @description Mouse has entered
+
+Converting GML script: ${project_dir}\objects\Arrow1_HighlightParent\Draw_0.gml
+Converted description /// @description Hightlight button if mouseover
