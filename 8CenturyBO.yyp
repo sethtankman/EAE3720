@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "143be31d-59c6-48bf-b884-5c7dccf15879",
+            "Value": {
+                "id": "208cd058-a8cc-400d-aa53-654989cc8d13",
+                "resourcePath": "objects\\obj_Textbox\\obj_Textbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19c1b460-79f0-4f4f-a254-b2b56e77846e",
             "Value": {
                 "id": "12c9b751-3b2f-48c0-9c5f-781769b60422",
                 "resourcePath": "views\\19c1b460-79f0-4f4f-a254-b2b56e77846e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "214ba90d-f340-4464-b9c9-edc5c90dc1af",
+            "Value": {
+                "id": "6db85a34-4cee-4420-837b-e99baa7e2cc1",
+                "resourcePath": "sprites\\spr_TextBox\\spr_TextBox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -194,7 +210,7 @@
             "Key": "bff21301-03f9-435c-b55d-664ff9654a49",
             "Value": {
                 "id": "1ea5f08b-d357-4e1a-9299-97ba4df01268",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\obj_TutorialController\\obj_TutorialController.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -276,6 +292,14 @@
                 "id": "3924d217-97a1-49c2-984d-d642db2e3b82",
                 "resourcePath": "notes\\compatibility_report_290120_120958958.yy",
                 "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "fc6f60be-a485-4bb1-a222-e518876d0700",
+            "Value": {
+                "id": "7f8f9a1f-53d5-4fd3-8562-abaed58d3a79",
+                "resourcePath": "fonts\\fnt_Javanese\\fnt_Javanese.yy",
+                "resourceType": "GMFont"
             }
         }
     ],
