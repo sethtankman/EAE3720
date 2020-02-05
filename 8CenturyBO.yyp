@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "435c18e8-43e5-4c51-9aa9-8c69ebb49c9e",
+            "Value": {
+                "id": "64c28f95-3378-4e4a-8c92-7e4456eea808",
+                "resourcePath": "sprites\\doorOverlay\\doorOverlay.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c12ad61-c703-4d67-891c-2aacf692e93c",
             "Value": {
                 "id": "ce9d5407-2f95-4c00-80de-ea714f7e408d",
@@ -260,6 +268,22 @@
                 "id": "5ce2df63-caf3-4f35-bd3f-5b28683c9e0c",
                 "resourcePath": "sprites\\spr_BlockOutFront\\spr_BlockOutFront.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f07b6ce9-a8ec-4b54-9670-10d644db345c",
+            "Value": {
+                "id": "ad66f2ee-4edd-45fa-815b-e1faac497eb8",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f09af953-1114-48cf-84ab-a562533c83a1",
+            "Value": {
+                "id": "333f27e0-ba6a-4f60-9e3f-7e483544cf3b",
+                "resourcePath": "objects\\room0_Door\\room0_Door.yy",
+                "resourceType": "GMObject"
             }
         },
         {
