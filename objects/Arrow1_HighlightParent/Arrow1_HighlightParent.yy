@@ -50,8 +50,8 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
-            "eventtype": 5,
+            "enumb": 4,
+            "eventtype": 6,
             "m_owner": "28004d02-3d50-49c4-b44e-0c775a9cc1c7"
         }
     ],
@@ -73,7 +73,22 @@
         
     ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "81d774ac-9d2d-4d22-966c-7f0a02b92378",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 512,
+            "value": "room0_Left",
+            "varName": "newRoom",
+            "varType": 5
+        }
+    ],
     "solid": false,
     "spriteId": "7587f440-7748-4cfd-b46d-42e9da74582d",
     "visible": true

@@ -4,5 +4,5 @@
 if (true)
 {
 	// Moves to the next room
-	room_goto(room1);
+	room_goto(room1_Front);
 }

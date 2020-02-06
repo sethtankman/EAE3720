@@ -1,6 +1,6 @@
 
 {
-    "name": "room1",
+    "name": "room1_Front",
     "id": "f07b6ce9-a8ec-4b54-9670-10d644db345c",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "47db0d3f-6dd8-4b20-964d-0704319da4e9",
-        "Height": 768,
+        "Height": 1080,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 1920
     },
     "mvc": "1.0",
     "views": [
