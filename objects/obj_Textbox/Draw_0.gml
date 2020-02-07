@@ -1,11 +1,17 @@
-/// @description Insert description here
-// You can write your code in this editor
-name = noone;
-text = "dude bro. lots of words. lots and lots and lots of them.  Keep typing so that yo uhave a bunch of letters";
-page = 0;
-charCount = 0;
-xBuffer = 10;
-yBuffer = 10;
-boxWidth = sprite_get_width(spr_box) - 2 * xBuffer;
-stringHeight = string_height(text);
-myTextBox = noone;
+
+//draw textbox
+draw_sprite(spr_TextBox, 0, x, y);
+
+//draw text
+draw_set_font(fnt_Tutorial);
+
+if(charCount < string_length(text[page])) {
+	charCount += 0.5;
+}
+textPart = string_copy(text[page], 1, charCount);
+
+draw_set_halign(fa_center);
+draw_text(x + (boxWidth/2), y+yBuffer, name);
+
+draw_set_halign(fa_left);
+draw_text_ext(x+xBuffer, y+stringHeight+yBuffer, textPart, stringHeight, boxWidth);
