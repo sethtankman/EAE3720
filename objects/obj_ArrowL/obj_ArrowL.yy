@@ -84,7 +84,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 512,
-            "value": "room0_Left",
+            "value": "room1_Left",
             "varName": "newRoom",
             "varType": 5
         }

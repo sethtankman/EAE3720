@@ -11,7 +11,7 @@
         "67cdda36-aaa7-45d7-8afe-e7bc9172663b"
     ],
     "filterType": "GMRoom",
-    "folderName": "room0",
+    "folderName": "room1",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

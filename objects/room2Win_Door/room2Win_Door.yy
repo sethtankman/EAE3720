@@ -1,18 +1,18 @@
 {
-    "id": "33707c9f-1308-4bb5-86b3-f61cad2aba37",
+    "id": "f1914465-e837-4ad6-939b-b060906ed646",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "room1ToRoom0_Door",
+    "name": "room2Win_Door",
     "eventList": [
         {
-            "id": "c9a89ea2-8992-4aff-85b7-44be9f4b38df",
+            "id": "a7fd868e-073c-4852-9548-ea908046360e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "33707c9f-1308-4bb5-86b3-f61cad2aba37"
+            "m_owner": "f1914465-e837-4ad6-939b-b060906ed646"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
