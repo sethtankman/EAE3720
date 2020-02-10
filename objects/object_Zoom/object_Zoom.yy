@@ -1,18 +1,18 @@
 {
-    "id": "f09af953-1114-48cf-84ab-a562533c83a1",
+    "id": "9665490d-d82a-44cb-8e86-5c9d8e5508e1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "room0_Door",
+    "name": "object_Zoom",
     "eventList": [
         {
-            "id": "0c8fce5d-c53e-4c8d-ad34-2b66c0ade4f1",
+            "id": "087b72ff-d13f-4bcb-adba-dac06353ab58",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "f09af953-1114-48cf-84ab-a562533c83a1"
+            "m_owner": "9665490d-d82a-44cb-8e86-5c9d8e5508e1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -32,9 +32,22 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "2a895d1b-b7b6-47cc-ae5b-d8f755d71bcc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 512,
+            "value": "0",
+            "varName": "object_view_room",
+            "varType": 5
+        }
     ],
     "solid": false,
-    "spriteId": "435c18e8-43e5-4c51-9aa9-8c69ebb49c9e",
+    "spriteId": "bab82bf2-02c9-4b98-b404-98e1ff2cd39d",
     "visible": false
 }
