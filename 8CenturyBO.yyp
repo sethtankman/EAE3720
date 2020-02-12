@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "699237ee-96b6-4ad5-9a7d-413039d463fe",
+            "Value": {
+                "id": "46ffa22c-4506-4c8f-8df2-9cb29d8b2220",
+                "resourcePath": "rooms\\Lock\\Lock.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "74755204-a8bf-409e-9692-b97f51cadfc8",
             "Value": {
                 "id": "2a9d80c1-b34e-4310-9f35-de936b2a577c",
@@ -359,6 +367,14 @@
             }
         },
         {
+            "Key": "c7c3df60-3c6e-48dc-847c-f56a5c8ee8ef",
+            "Value": {
+                "id": "e090f4a1-896c-49ed-8fa1-768212751537",
+                "resourcePath": "sprites\\spr_Combo\\spr_Combo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c932fc0e-60d9-4cc0-b052-c99175f896cb",
             "Value": {
                 "id": "f1f7ab9c-7a20-4b74-a564-d9b08edae4ba",
@@ -372,6 +388,14 @@
                 "id": "c2df7239-cd62-46a6-9851-b126ef7bba48",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d49f55e5-bde3-4ed5-baa7-4c7ea520d6c8",
+            "Value": {
+                "id": "9d678568-487f-4c44-a6e6-4b5d0cbb0704",
+                "resourcePath": "sprites\\spr_ComboLock\\spr_ComboLock.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
