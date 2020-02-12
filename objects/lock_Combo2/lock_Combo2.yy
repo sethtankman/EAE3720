@@ -1,28 +1,28 @@
 {
-    "id": "f09af953-1114-48cf-84ab-a562533c83a1",
+    "id": "847b53c5-e5df-4b7e-8bbc-d16713d5f686",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "room1ToRoom2_Door",
+    "name": "lock_Combo2",
     "eventList": [
         {
-            "id": "0c8fce5d-c53e-4c8d-ad34-2b66c0ade4f1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "f09af953-1114-48cf-84ab-a562533c83a1"
-        },
-        {
-            "id": "a61b554f-94df-4810-af13-d5bfde2a1dbd",
+            "id": "800f810d-2f6f-4b8a-9af8-46e6b0411e03",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "f09af953-1114-48cf-84ab-a562533c83a1"
+            "m_owner": "847b53c5-e5df-4b7e-8bbc-d16713d5f686"
+        },
+        {
+            "id": "dc6b9f49-0ac6-47c2-a0c0-110a8f832ec8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "847b53c5-e5df-4b7e-8bbc-d16713d5f686"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,10 +41,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "435c18e8-43e5-4c51-9aa9-8c69ebb49c9e",
-    "visible": false
+    "spriteId": "c7c3df60-3c6e-48dc-847c-f56a5c8ee8ef",
+    "visible": true
 }
