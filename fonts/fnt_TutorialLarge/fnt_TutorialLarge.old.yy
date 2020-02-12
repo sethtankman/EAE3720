@@ -2,7 +2,7 @@
     "id": "ced32ffd-959d-43c1-be1a-30015659a630",
     "modelName": "GMFont",
     "mvc": "1.1",
-    "name": "fnt_Tutorial1",
+    "name": "fnt_TutorialLarge",
     "AntiAlias": 1,
     "TTFName": "",
     "ascenderOffset": 0,
