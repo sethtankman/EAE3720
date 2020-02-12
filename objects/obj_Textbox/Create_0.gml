@@ -9,3 +9,4 @@ yBuffer = 10;
 boxWidth = sprite_get_width(spr_TextBox) - 2 * xBuffer;
 stringHeight = string_height(text);
 myTextBox = noone;
+font = fnt_Tutorial

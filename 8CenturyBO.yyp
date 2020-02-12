@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "327f79ae-e33f-433b-9728-fcecf13a5b0b",
+            "Value": {
+                "id": "d822b1ec-84c2-4288-9e5c-a99287fc1e5a",
+                "resourcePath": "objects\\obj_LockText\\obj_LockText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33707c9f-1308-4bb5-86b3-f61cad2aba37",
             "Value": {
                 "id": "1b0fa1c8-c452-48c7-9db6-a6298e3bb866",
@@ -140,6 +148,14 @@
                 "id": "f048ef1d-db1a-44fc-84f5-d82ef4a04a5e",
                 "resourcePath": "sprites\\spr_zoomTest\\spr_zoomTest.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "397f2403-d4ee-4b0e-a4ff-46154291e380",
+            "Value": {
+                "id": "530b246a-5954-449a-a50b-a18da56e09fd",
+                "resourcePath": "views\\397f2403-d4ee-4b0e-a4ff-46154291e380.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -388,6 +404,14 @@
                 "id": "c2df7239-cd62-46a6-9851-b126ef7bba48",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ced32ffd-959d-43c1-be1a-30015659a630",
+            "Value": {
+                "id": "c1098d0d-bdc4-4013-a63c-e924cf3c9644",
+                "resourcePath": "fonts\\fnt_TutorialLarge\\fnt_TutorialLarge.yy",
+                "resourceType": "GMFont"
             }
         },
         {

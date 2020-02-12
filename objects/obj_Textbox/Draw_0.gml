@@ -3,7 +3,7 @@
 draw_sprite(spr_TextBox, 0, x, y);
 
 //draw text
-draw_set_font(fnt_Tutorial);
+draw_set_font(font);
 
 if(charCount < string_length(text[page])) {
 	charCount += 0.5;

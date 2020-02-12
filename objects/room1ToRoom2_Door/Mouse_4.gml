@@ -6,5 +6,5 @@ if (isLocked == false)
 	// Moves to the next room
 	room_goto(room2_Front);
 } else {
-	room_goto();
+	room_goto(Lock);
 }
