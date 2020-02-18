@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oexitButton",
     "eventList": [
-        
+        {
+            "id": "0a33e307-4ae9-4323-9019-28bfdbf6bf0b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "f9b48065-1969-4bfe-9766-adc0f6e88d45"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

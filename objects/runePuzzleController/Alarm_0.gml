@@ -1,0 +1,20 @@
+/// @description Insert description here
+// You can write your code in this editor
+
+solved = true;
+
+for (var i = 0; i < 16; i++)
+{
+	if (!global.runeCorrect[i])
+	{
+		solved = false;
+	}
+}
+
+if (solved)
+{
+	global.isRunePuzzleSolved = true;
+	room_goto(room1_Front);
+}
+
+alarm[0] = 30;

@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "18eabda9-7ebb-4397-9b8a-d0050bd8b84d",
+            "Value": {
+                "id": "d5a9a140-7196-483c-b261-da5e0d7f1c51",
+                "resourcePath": "objects\\thLetterTile\\thLetterTile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19c1b460-79f0-4f4f-a254-b2b56e77846e",
             "Value": {
                 "id": "12c9b751-3b2f-48c0-9c5f-781769b60422",
@@ -76,6 +84,14 @@
                 "id": "77f4091b-36ed-4b60-bea7-3d48747d34e1",
                 "resourcePath": "sprites\\spr_room2Front\\spr_room2Front.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1d85a6fb-4ebf-478a-a013-c52d71668477",
+            "Value": {
+                "id": "1fe902b1-275b-4d96-817d-e074fda81e2d",
+                "resourcePath": "objects\\thLetterTileOverlay\\thLetterTileOverlay.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -115,6 +131,14 @@
             "Value": {
                 "id": "804c77dd-cd7e-4324-bcb0-e0acaff1aa3f",
                 "resourcePath": "objects\\obj_ArrowL\\obj_ArrowL.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2949a43c-600c-4098-99ff-526116e481ec",
+            "Value": {
+                "id": "96d2517b-94cc-493f-b1e0-a4a33c95cb24",
+                "resourcePath": "objects\\runePuzzleController\\runePuzzleController.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -215,6 +239,14 @@
             }
         },
         {
+            "Key": "4492cd79-a743-419f-b4f7-73e016c75e03",
+            "Value": {
+                "id": "7070da19-dc3c-43e0-8d34-6b3e75d7c75b",
+                "resourcePath": "objects\\letterTileOverlay\\letterTileOverlay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "45307cee-7844-41b3-b808-73b4444d38af",
             "Value": {
                 "id": "1be44c7a-acb7-4e4f-a9a4-20c2fce19f63",
@@ -259,6 +291,14 @@
             "Value": {
                 "id": "94c84811-15d5-4076-be71-5cc6eb40ddb0",
                 "resourcePath": "sprites\\runePuzzleBackground\\runePuzzleBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ff2e97e-4b9f-48db-ad24-8ef52c60a8ea",
+            "Value": {
+                "id": "3f68522e-5e0b-49a7-a9d8-51099f16f737",
+                "resourcePath": "sprites\\thLetter\\thLetter.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -407,6 +447,14 @@
             }
         },
         {
+            "Key": "a08d6ecf-6416-4869-a4ec-633fd27d4700",
+            "Value": {
+                "id": "be9aba25-4635-43e3-94b1-4e43d81646fc",
+                "resourcePath": "sprites\\backspace\\backspace.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a2394f07-d6bc-4283-a88d-ace5037e98a6",
             "Value": {
                 "id": "71f3e04a-97eb-467f-81ea-af0461dc7bd1",
@@ -420,6 +468,14 @@
                 "id": "755871ef-4e3d-495e-b4ee-af0859083d01",
                 "resourcePath": "rooms\\room2_Left\\room2_Left.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a59b7587-057b-4196-9346-e9ac9e70383d",
+            "Value": {
+                "id": "04c02339-dc6e-4e77-8622-3689bc8fc606",
+                "resourcePath": "objects\\backspaceTile\\backspaceTile.yy",
+                "resourceType": "GMObject"
             }
         },
         {
