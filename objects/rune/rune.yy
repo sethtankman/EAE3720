@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "rune",
     "eventList": [
-        
+        {
+            "id": "cfdb2eb6-a80f-40c6-a1d3-968baeba2c21",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "e8309bdc-2399-4564-ba05-6883d0ac19fd"
+        },
+        {
+            "id": "fccdeba6-d9a7-4a2a-8deb-885265781761",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "e8309bdc-2399-4564-ba05-6883d0ac19fd"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
