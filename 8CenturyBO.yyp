@@ -367,14 +367,6 @@
             }
         },
         {
-            "Key": "78d97a5d-04ee-4bdd-bc2c-a9ee72d9850f",
-            "Value": {
-                "id": "bdb615bc-7051-4a2b-a5a5-b124992da2d9",
-                "resourcePath": "rooms\\RunePuzzle\\RunePuzzle.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "7db2a7c4-fdba-4aa8-99bc-d5935bb1f83e",
             "Value": {
                 "id": "0db9cb59-5022-4f34-8884-d7d78c725409",
