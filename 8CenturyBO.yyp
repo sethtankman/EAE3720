@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "3b5159d2-7390-4cfb-9be9-7a76dad62150",
+            "Value": {
+                "id": "2ee9217b-0053-4db4-ba53-09b030f2e16b",
+                "resourcePath": "rooms\\TilePuzzle\\TilePuzzle.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3d82803c-b66b-49f9-82f1-a278f8862f19",
             "Value": {
                 "id": "b6659637-8999-4b05-99a8-f6155d869834",
@@ -375,6 +383,14 @@
             }
         },
         {
+            "Key": "76c9e582-580e-4520-b2ad-f73239d17fbc",
+            "Value": {
+                "id": "4e85a16a-ee0c-4081-8abc-34f0eafb8f3b",
+                "resourcePath": "sprites\\tilePuzzleRef\\tilePuzzleRef.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7db2a7c4-fdba-4aa8-99bc-d5935bb1f83e",
             "Value": {
                 "id": "0db9cb59-5022-4f34-8884-d7d78c725409",
@@ -452,6 +468,22 @@
                 "id": "30294ee2-8e2a-4d3b-a57c-dd416b227d9e",
                 "resourcePath": "objects\\object_Zoom\\object_Zoom.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "993e639b-36e9-4048-96d7-0546f621b9d6",
+            "Value": {
+                "id": "a3ccdb9f-5450-4d50-a12d-ceb980becb28",
+                "resourcePath": "views\\993e639b-36e9-4048-96d7-0546f621b9d6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9cabfc1c-4cdb-428a-817c-57e906400810",
+            "Value": {
+                "id": "67876bab-99f7-4e43-8938-dd201e604be8",
+                "resourcePath": "sprites\\sTileExitButton\\sTileExitButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -540,6 +572,14 @@
                 "id": "a9c280fc-ed4e-4f6c-bf4a-05b14df1d67a",
                 "resourcePath": "rooms\\room1_Right\\room1_Right.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b29f76b0-19c2-493e-a983-862942d43d1a",
+            "Value": {
+                "id": "59d91138-4bff-4a64-8ab3-49c467754adc",
+                "resourcePath": "objects\\oTileExitButton\\oTileExitButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -655,6 +695,14 @@
             }
         },
         {
+            "Key": "e01102a1-349f-4491-8a50-26ad14479edd",
+            "Value": {
+                "id": "687191e6-9db7-4218-af0b-f1fb36bc287c",
+                "resourcePath": "views\\e01102a1-349f-4491-8a50-26ad14479edd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e14b5806-4270-41be-a2ee-c655c41d4d9f",
             "Value": {
                 "id": "555cf0c8-369c-414b-a452-98e067a5e9d8",
@@ -747,6 +795,14 @@
             "Value": {
                 "id": "4e9f95e2-d31c-4cd5-89ee-3ddca6b33fb8",
                 "resourcePath": "sprites\\spr_BlockOutRear\\spr_BlockOutRear.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f92cf4f9-3cc4-449b-b2d8-a53ced682719",
+            "Value": {
+                "id": "979de437-4d30-4ec6-b35e-6c0137934650",
+                "resourcePath": "sprites\\tilePuzzleBackground\\tilePuzzleBackground.yy",
                 "resourceType": "GMSprite"
             }
         },
