@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "132c6cfb-56c2-43e3-8105-77c5ca4bf596",
+            "Value": {
+                "id": "cca451dd-058d-49d8-b80e-2a6171941330",
+                "resourcePath": "objects\\oLockForeground\\oLockForeground.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1338d7f3-7154-4680-babb-fa11bc9005b5",
+            "Value": {
+                "id": "216821ef-19f3-418f-8ff4-09fb33f805ae",
+                "resourcePath": "sprites\\spr_ComboG\\spr_ComboG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "143be31d-59c6-48bf-b884-5c7dccf15879",
             "Value": {
                 "id": "208cd058-a8cc-400d-aa53-654989cc8d13",
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "372d8c33-3ff6-48be-b379-c6e9ff67548d",
+            "Value": {
+                "id": "b9559b8e-47e9-462c-8851-7c78a7bcd8ee",
+                "resourcePath": "sprites\\spr_ComboB\\spr_ComboB.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37f38b51-0791-4083-8983-64227dfbbf86",
             "Value": {
                 "id": "f048ef1d-db1a-44fc-84f5-d82ef4a04a5e",
@@ -311,6 +335,14 @@
             }
         },
         {
+            "Key": "4649e3d6-9a83-4ef2-aeb3-3591eafbc9ce",
+            "Value": {
+                "id": "cd4a34cd-d569-4bd8-94ac-82bd86e08285",
+                "resourcePath": "sprites\\spr_ComboR\\spr_ComboR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c12ad61-c703-4d67-891c-2aacf692e93c",
             "Value": {
                 "id": "ce9d5407-2f95-4c00-80de-ea714f7e408d",
@@ -347,6 +379,22 @@
             "Value": {
                 "id": "94c84811-15d5-4076-be71-5cc6eb40ddb0",
                 "resourcePath": "sprites\\runePuzzleBackground\\runePuzzleBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5e52d669-8a60-4862-9d71-78627c616eb7",
+            "Value": {
+                "id": "d1dc75bb-eec8-4514-abce-4fd6eff42d83",
+                "resourcePath": "objects\\oTile\\oTile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5ec63bd1-8585-4b85-8e4b-231625a0368a",
+            "Value": {
+                "id": "00a497ee-a67e-4531-bd68-121172f2df2c",
+                "resourcePath": "sprites\\sTilePuzzle\\sTilePuzzle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -564,6 +612,14 @@
                 "id": "755871ef-4e3d-495e-b4ee-af0859083d01",
                 "resourcePath": "rooms\\room2_Left\\room2_Left.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a3496e8a-e206-48d9-85b1-766a5fbb5c78",
+            "Value": {
+                "id": "d654209b-aa75-480e-be2d-68b34bfbc04f",
+                "resourcePath": "sprites\\sLockForeground\\sLockForeground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -812,6 +868,14 @@
                 "id": "5ce2df63-caf3-4f35-bd3f-5b28683c9e0c",
                 "resourcePath": "sprites\\spr_BlockOutFront\\spr_BlockOutFront.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef0c4b5b-186d-475f-9333-25c1a28f5a48",
+            "Value": {
+                "id": "374e3ac7-7dae-440b-b2ba-cd8583e97abe",
+                "resourcePath": "views\\ef0c4b5b-186d-475f-9333-25c1a28f5a48.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
