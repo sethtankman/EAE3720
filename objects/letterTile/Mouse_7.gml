@@ -1,12 +1,19 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+// disables click overlay
+if (clicked_overlay != noone)
+{
+	instance_destroy(clicked_overlay);
+	clicked_overlay = noone;
+}
+
 if (global.activeRune != noone)
 {
 	halfRuneHeight = rune.sprite_height / 2;
 	halfRuneWidth = rune.sprite_width / 2;
-	halfLetterHeight = 96 / 2;
-	halfLetterWidth = 96 / 2;
+	halfLetterHeight = 175 / 2;
+	halfLetterWidth = 175 / 2;
 	prevVal = -1;
 	if (global.runeInstances[global.activeRune.runeIndex] != noone)
 	{
@@ -25,5 +32,5 @@ if (global.activeRune != noone)
 	//}
 	
 	// De-selects the rune
-	global.activeRune = noone;
+	//global.activeRune = noone;
 }

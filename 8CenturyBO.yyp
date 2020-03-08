@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "030cdb3a-3f46-4756-b797-3dfa09643d59",
+            "Value": {
+                "id": "21a46c4e-7403-4320-9fab-74dc16cb622e",
+                "resourcePath": "sprites\\letterClickedOverlayTH\\letterClickedOverlayTH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "038f7f30-901b-4c59-953c-281eff6dc43f",
+            "Value": {
+                "id": "69296d9c-db64-4e3e-9bd1-12096ce6b370",
+                "resourcePath": "objects\\oLetterClickedOverlayTH\\oLetterClickedOverlayTH.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0dc6c689-3998-4d0d-a828-9ec9312e45af",
             "Value": {
                 "id": "9da0ddbb-6361-43cf-aba6-2671341800a3",
@@ -60,6 +76,14 @@
                 "id": "657154d3-0af9-433f-8919-1bf4769a0b96",
                 "resourcePath": "rooms\\room2_Right\\room2_Right.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "14fba24c-3a80-4404-bd84-506dcd06a007",
+            "Value": {
+                "id": "c3641909-64d8-4e4e-818f-782734988693",
+                "resourcePath": "objects\\oLetterClickedOverlay\\oLetterClickedOverlay.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,6 +127,14 @@
             }
         },
         {
+            "Key": "1f594800-091f-4a95-9ad6-0990f2540036",
+            "Value": {
+                "id": "31fb4caf-166a-412f-8ef3-e42e9c90714c",
+                "resourcePath": "sprites\\largethLetter\\largethLetter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "214ba90d-f340-4464-b9c9-edc5c90dc1af",
             "Value": {
                 "id": "6db85a34-4cee-4420-837b-e99baa7e2cc1",
@@ -140,6 +172,14 @@
                 "id": "96d2517b-94cc-493f-b1e0-a4a33c95cb24",
                 "resourcePath": "objects\\runePuzzleController\\runePuzzleController.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29776328-6d36-4dec-941f-95df4f854c9f",
+            "Value": {
+                "id": "52678d3d-ba49-4a60-a6be-7309aac334e8",
+                "resourcePath": "sprites\\letterClickedOverlay\\letterClickedOverlay.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -508,6 +548,14 @@
                 "id": "71f3e04a-97eb-467f-81ea-af0461dc7bd1",
                 "resourcePath": "objects\\lock_Combo_Up\\lock_Combo_Up.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a25b50fc-0585-4a96-9e5e-86a5c687c942",
+            "Value": {
+                "id": "fb5b15bd-97c9-4bcf-b209-ece14de19716",
+                "resourcePath": "sprites\\largeLetters\\largeLetters.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
