@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "2898ca4c-98fc-4f9a-9b28-c7372198d050",
+            "Value": {
+                "id": "a7fb2225-6b97-4425-91bf-7bcccebccca7",
+                "resourcePath": "objects\\obj_IntroController\\obj_IntroController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2949a43c-600c-4098-99ff-526116e481ec",
             "Value": {
                 "id": "96d2517b-94cc-493f-b1e0-a4a33c95cb24",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "4bfb6576-c750-40a1-b9c1-d17b497a7245",
+            "Value": {
+                "id": "a35c7abe-5021-4a63-8ad5-6a03f92443f3",
+                "resourcePath": "sounds\\sound_Intro1\\sound_Intro1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4c12ad61-c703-4d67-891c-2aacf692e93c",
             "Value": {
                 "id": "ce9d5407-2f95-4c00-80de-ea714f7e408d",
@@ -348,6 +364,14 @@
                 "id": "46ffa22c-4506-4c8f-8df2-9cb29d8b2220",
                 "resourcePath": "rooms\\Lock\\Lock.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6fed517c-b565-4600-af4e-aec27bbdfd59",
+            "Value": {
+                "id": "dee20fa8-1f4a-4035-b2b2-de9a37f8fe55",
+                "resourcePath": "sounds\\sound_Intro2\\sound_Intro2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -575,6 +599,14 @@
             }
         },
         {
+            "Key": "ca203298-9c8f-4438-937e-c5260bc14188",
+            "Value": {
+                "id": "00d40118-bb4b-4d03-a0b6-4af71ab109f5",
+                "resourcePath": "rooms\\Intro\\Intro.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "cafd57b7-c4f2-4e59-b1b4-e8fe1c9cbc9e",
             "Value": {
                 "id": "a71ff380-5d18-4ff5-ac10-946081cf61ff",
@@ -611,6 +643,14 @@
             "Value": {
                 "id": "c763b482-e4f9-4fcd-aa0a-f4a53126aae9",
                 "resourcePath": "sprites\\exitButton\\exitButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d961da77-1e46-42b5-abdf-a6fcad202b11",
+            "Value": {
+                "id": "9dde4fa0-10f6-46b1-892b-62dc3773d230",
+                "resourcePath": "sprites\\spr_Intro\\spr_Intro.yy",
                 "resourceType": "GMSprite"
             }
         },
