@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1775518f-7263-416a-a3be-706ad457f38d",
+            "Value": {
+                "id": "5642868b-a630-44bc-9cfd-aefe17df78b9",
+                "resourcePath": "objects\\oTilePuzzleController\\oTilePuzzleController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18eabda9-7ebb-4397-9b8a-d0050bd8b84d",
             "Value": {
                 "id": "d5a9a140-7196-483c-b261-da5e0d7f1c51",
