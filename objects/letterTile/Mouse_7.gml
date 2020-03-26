@@ -29,6 +29,7 @@ if (global.activeRune != noone)
 								"LetterOverlay", letterTileOverlay);
 		global.runeInstances[global.activeRune.runeIndex] = inst;
 		inst.image_index = image_index;
+		global.runePuzzleLetters[global.activeRune.runeIndex] = image_index;
 	//}
 	
 	// De-selects the rune

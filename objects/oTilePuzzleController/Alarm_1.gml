@@ -6,4 +6,4 @@ if (global.isTilePuzzleSolved)
 	room_goto(room2_Front);
 }
 
-alarm[1] = 5;
+alarm[1] = 1;

@@ -19,7 +19,7 @@ for (i = 0; i < 16; i++)
 if (isCorrect)
 {
 	global.isTilePuzzleSolved = true;
-	room_goto(room2_Front);
+	room_goto(room1_Front);
 }
 
 alarm[0] = 10;
