@@ -7,4 +7,4 @@ if (global.activeRune != noone && global.runeInstances[global.activeRune.runeInd
 }
 
 // De-selects the rune
-global.activeRune = noone;
+//global.activeRune = noone;
