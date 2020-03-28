@@ -6,7 +6,7 @@ if (global.activeRune == id)
 {
 	global.activeRune = noone;
 }
-else
+else if (image_index != 16)
 {
 	global.activeRune = id;
 }
