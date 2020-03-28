@@ -11,14 +11,14 @@ if (global.runeInstances[runeIndex] != noone)
 		(image_index == 5 && global.runeInstances[runeIndex].image_index == 11) || 
 		(image_index == 6 && global.runeInstances[runeIndex].image_index == 8) || 
 		(image_index == 7 && global.runeInstances[runeIndex].image_index == 14) || 
-		(image_index == 8 && global.runeInstances[runeIndex].image_index == 5) || 
+		(image_index == 8 && global.runeInstances[runeIndex].image_index == 9) || 
 		(image_index == 9 && global.runeInstances[runeIndex].image_index == 1) || 
 		(image_index == 10 && global.runeInstances[runeIndex].image_index == 19) || 
-		(image_index == 11 && global.runeInstances[runeIndex].image_index == 4) || 
+		(image_index == 11 && global.runeInstances[runeIndex].image_index == 20) || 
 		(image_index == 12 && global.runeInstances[runeIndex].image_index == 2) || 
 		(image_index == 13 && global.runeInstances[runeIndex].image_index == 13) || 
-		(image_index == 14 && global.runeInstances[runeIndex].image_index == 9) || 
-		(image_index == 15 && global.runeInstances[runeIndex].image_index == 25))
+		(image_index == 14 && global.runeInstances[runeIndex].image_index == 12) || 
+		(image_index == 15 && global.runeInstances[runeIndex].image_index == 26))
 	{
 		global.runeCorrect[runeIndex] = true;
 	}
@@ -26,10 +26,6 @@ if (global.runeInstances[runeIndex] != noone)
 	{
 		global.runeCorrect[runeIndex] = false;
 	}
-}
-else if (image_index == 16)
-{
-	global.runeCorrect[runeIndex] = true;
 }
 else
 {

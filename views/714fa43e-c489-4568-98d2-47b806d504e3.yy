@@ -9,8 +9,7 @@
         "a8793b7d-bd47-4021-89df-02e56416e446",
         "0dc6c689-3998-4d0d-a828-9ec9312e45af",
         "a2394f07-d6bc-4283-a88d-ace5037e98a6",
-        "45307cee-7844-41b3-b808-73b4444d38af",
-        "132c6cfb-56c2-43e3-8105-77c5ca4bf596"
+        "45307cee-7844-41b3-b808-73b4444d38af"
     ],
     "filterType": "GMObject",
     "folderName": "lock",

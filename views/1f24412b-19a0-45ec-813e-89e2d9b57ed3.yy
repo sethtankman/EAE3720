@@ -10,11 +10,7 @@
         "57d7fa70-c957-443d-b4c3-e07ae16baefc",
         "5404b17b-0c20-4d2d-a6ba-ac06b61b4dea",
         "a08d6ecf-6416-4869-a4ec-633fd27d4700",
-        "5ff2e97e-4b9f-48db-ad24-8ef52c60a8ea",
-        "1f594800-091f-4a95-9ad6-0990f2540036",
-        "a25b50fc-0585-4a96-9e5e-86a5c687c942",
-        "29776328-6d36-4dec-941f-95df4f854c9f",
-        "030cdb3a-3f46-4756-b797-3dfa09643d59"
+        "5ff2e97e-4b9f-48db-ad24-8ef52c60a8ea"
     ],
     "filterType": "GMSprite",
     "folderName": "runePuzzle",

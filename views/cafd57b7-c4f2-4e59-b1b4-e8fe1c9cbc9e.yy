@@ -11,9 +11,7 @@
         "2949a43c-600c-4098-99ff-526116e481ec",
         "18eabda9-7ebb-4397-9b8a-d0050bd8b84d",
         "1d85a6fb-4ebf-478a-a013-c52d71668477",
-        "a59b7587-057b-4196-9346-e9ac9e70383d",
-        "14fba24c-3a80-4404-bd84-506dcd06a007",
-        "038f7f30-901b-4c59-953c-281eff6dc43f"
+        "a59b7587-057b-4196-9346-e9ac9e70383d"
     ],
     "filterType": "GMObject",
     "folderName": "runes",
