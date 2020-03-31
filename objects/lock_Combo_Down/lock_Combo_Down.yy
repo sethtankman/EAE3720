@@ -5,12 +5,12 @@
     "name": "lock_Combo_Down",
     "eventList": [
         {
-            "id": "4eb4cb36-20c6-461a-9aaa-bb9735194f54",
+            "id": "eb3316c4-a168-4e3a-82c1-ddb4074f2f45",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
+            "enumb": 4,
             "eventtype": 6,
             "m_owner": "45307cee-7844-41b3-b808-73b4444d38af"
         }
