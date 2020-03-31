@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "4f32e02b-ee4c-4e2e-9e84-bb7b454d5487",
+            "Value": {
+                "id": "1f495343-896c-49ee-a193-83e7f0091141",
+                "resourcePath": "sprites\\ArrowNext\\ArrowNext.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50d45960-202b-4e30-950a-cc17117a4ba6",
             "Value": {
                 "id": "f9717c9d-2660-4599-b98c-aba6b96c3af0",
@@ -396,6 +404,14 @@
                 "id": "94c84811-15d5-4076-be71-5cc6eb40ddb0",
                 "resourcePath": "sprites\\runePuzzleBackground\\runePuzzleBackground.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5bc9ba8e-065d-49da-bd5e-1fd5028bb280",
+            "Value": {
+                "id": "2d7e6dfd-70ce-409f-8796-007fcab9cfec",
+                "resourcePath": "objects\\obj_ArrowNext\\obj_ArrowNext.yy",
+                "resourceType": "GMObject"
             }
         },
         {

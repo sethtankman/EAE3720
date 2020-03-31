@@ -8,3 +8,6 @@ myTextBox = instance_create_layer(x, y, "TextBoxLayer", obj_Textbox);
 myTextBox.text = myText;
 myTextBox.creator = self;
 myTextBox.name = myName;
+
+//Music to play:
+audio_play_sound(music_ancientpath_loop, 1, true);

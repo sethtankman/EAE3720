@@ -6,7 +6,6 @@ if(audio_is_playing(snd_Intro1) == false
 			play_audio = true;
 		}
 		else if (spr_index == 6) {
-			audio_play_sound(music_ancientpath_loop, 1, true);
 			room_goto_next();
 		} else {
 			canChange = false;
