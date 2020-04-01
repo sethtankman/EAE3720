@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "536261a8-c209-41e7-a9e1-12657af7767e",
+            "Value": {
+                "id": "4ce06f73-ed15-49d4-9843-6c6c2ba93c43",
+                "resourcePath": "objects\\obj_AxeText\\obj_AxeText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5404b17b-0c20-4d2d-a6ba-ac06b61b4dea",
             "Value": {
                 "id": "07081cbf-9a87-43b7-9b41-2bd230dd8957",
