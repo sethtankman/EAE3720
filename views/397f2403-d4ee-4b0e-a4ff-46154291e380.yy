@@ -4,13 +4,13 @@
     "mvc": "1.1",
     "name": "397f2403-d4ee-4b0e-a4ff-46154291e380",
     "children": [
-        "bff21301-03f9-435c-b55d-664ff9654a49",
-        "536261a8-c209-41e7-a9e1-12657af7767e",
         "143be31d-59c6-48bf-b884-5c7dccf15879",
-        "327f79ae-e33f-433b-9728-fcecf13a5b0b"
+        "100a8ff5-29b4-4d0c-b831-9ded67859564",
+        "68525107-60a5-4424-b94f-cf68a9a5f097",
+        "cfe9c57e-8623-4f47-92dc-35a79228bc95"
     ],
     "filterType": "GMObject",
-    "folderName": "grp_TextBox",
+    "folderName": "TextBoxes",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
