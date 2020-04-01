@@ -7,7 +7,8 @@
         "143be31d-59c6-48bf-b884-5c7dccf15879",
         "100a8ff5-29b4-4d0c-b831-9ded67859564",
         "68525107-60a5-4424-b94f-cf68a9a5f097",
-        "cfe9c57e-8623-4f47-92dc-35a79228bc95"
+        "cfe9c57e-8623-4f47-92dc-35a79228bc95",
+        "fcb61d4e-42f2-4fc8-becf-72ab25569cc5"
     ],
     "filterType": "GMObject",
     "folderName": "TextBoxes",
