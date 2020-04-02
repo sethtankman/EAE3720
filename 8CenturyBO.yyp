@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0a740d7e-b934-47aa-8097-da88364d2159",
+            "Value": {
+                "id": "26463374-7e3d-416b-86cc-2536d5a1daac",
+                "resourcePath": "objects\\obj_ShipText\\obj_ShipText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0dc6c689-3998-4d0d-a828-9ec9312e45af",
             "Value": {
                 "id": "9da0ddbb-6361-43cf-aba6-2671341800a3",
@@ -131,6 +139,14 @@
             "Value": {
                 "id": "c3641909-64d8-4e4e-818f-782734988693",
                 "resourcePath": "objects\\oLetterClickedOverlay\\oLetterClickedOverlay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1618123a-a421-4ff4-ba90-e6861199ff1e",
+            "Value": {
+                "id": "81d36d66-0034-4269-9e19-d07e47e3543c",
+                "resourcePath": "objects\\obj_CoinsText\\obj_CoinsText.yy",
                 "resourceType": "GMObject"
             }
         },
