@@ -1095,6 +1095,14 @@
             }
         },
         {
+            "Key": "b9db0bcb-9e09-4429-b452-faf8c8214044",
+            "Value": {
+                "id": "9df79f9c-f5a6-4f93-a503-f21e9bfce089",
+                "resourcePath": "sprites\\sprite64\\sprite64.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bab82bf2-02c9-4b98-b404-98e1ff2cd39d",
             "Value": {
                 "id": "269fe03b-ecec-4bc6-a418-b3092239f22b",
@@ -1356,6 +1364,14 @@
                 "id": "8aea7ed4-e3a5-4e11-a67d-59699fe1c66b",
                 "resourcePath": "sounds\\music_ancientpath_loop\\music_ancientpath_loop.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e6a24b04-4747-471a-a25e-202abb8bb3cc",
+            "Value": {
+                "id": "b958c24d-1e4a-427b-a65c-afd20227cfb4",
+                "resourcePath": "rooms\\YouWinStandIn\\YouWinStandIn.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
