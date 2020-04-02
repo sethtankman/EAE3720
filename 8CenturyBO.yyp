@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1173d7a3-9522-470d-af31-10622275e88e",
+            "Value": {
+                "id": "d0efa2b4-04ea-4039-b651-0b4d034ce393",
+                "resourcePath": "sprites\\tilePuzzleHintText\\tilePuzzleHintText.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "12c87bb5-0b70-4703-badb-94715cf57cab",
             "Value": {
                 "id": "87fd7eb4-7e68-498b-8326-7046d0142970",
@@ -1091,6 +1099,14 @@
             "Value": {
                 "id": "59d91138-4bff-4a64-8ab3-49c467754adc",
                 "resourcePath": "objects\\oTileExitButton\\oTileExitButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b917fbf0-bf2d-4e50-9efe-a9cf3d8b659e",
+            "Value": {
+                "id": "72e9015b-0d1e-46d4-9757-ab8ac3bc7a8e",
+                "resourcePath": "objects\\randomText\\randomText.yy",
                 "resourceType": "GMObject"
             }
         },
