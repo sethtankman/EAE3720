@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "59463fe9-f638-4286-a7aa-c8ba0627f412",
+            "Value": {
+                "id": "df7af325-d1dd-4d97-b2d4-3937bf9fdf85",
+                "resourcePath": "sprites\\spr_Bluetooth\\spr_Bluetooth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bc9ba8e-065d-49da-bd5e-1fd5028bb280",
             "Value": {
                 "id": "2d7e6dfd-70ce-409f-8796-007fcab9cfec",
@@ -620,6 +628,14 @@
                 "id": "1354e429-c83a-4090-9eb5-86e967604566",
                 "resourcePath": "views\\6351c3c1-3c25-4e48-a121-52847fad05f1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63c9540d-9147-4c26-97f8-88c00deb1a04",
+            "Value": {
+                "id": "18437f75-da66-4214-858b-0d1e655c2e54",
+                "resourcePath": "rooms\\Bluetooth\\Bluetooth.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -836,6 +852,14 @@
                 "id": "fb7474e3-05c8-4976-b4be-3a0239d8ada8",
                 "resourcePath": "sprites\\runes\\runes.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "94f7ee2b-44c1-4f8c-8c1f-5c56062eab94",
+            "Value": {
+                "id": "7bd30c04-07cd-4519-ae4a-9620728d0e10",
+                "resourcePath": "rooms\\Fishing\\Fishing.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
