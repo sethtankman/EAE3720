@@ -14,7 +14,7 @@ if (global.runeInstances[runeIndex] != noone)
 		(image_index == 8 && global.runeInstances[runeIndex].image_index == 5) || 
 		(image_index == 9 && global.runeInstances[runeIndex].image_index == 1) || 
 		(image_index == 10 && global.runeInstances[runeIndex].image_index == 19) || 
-		(image_index == 11 && global.runeInstances[runeIndex].image_index == 4) || 
+		(image_index == 11 && global.runeInstances[runeIndex].image_index == 20) || 
 		(image_index == 12 && global.runeInstances[runeIndex].image_index == 2) || 
 		(image_index == 13 && global.runeInstances[runeIndex].image_index == 13) || 
 		(image_index == 14 && global.runeInstances[runeIndex].image_index == 9) || 
