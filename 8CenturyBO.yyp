@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0d21e582-a667-4512-847e-62a65373d733",
+            "Value": {
+                "id": "a441b4eb-d083-4801-81a4-0bb28a39553e",
+                "resourcePath": "objects\\obj_DoorAnimationController1\\obj_DoorAnimationController1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0dc6c689-3998-4d0d-a828-9ec9312e45af",
             "Value": {
                 "id": "9da0ddbb-6361-43cf-aba6-2671341800a3",
@@ -583,6 +591,14 @@
             }
         },
         {
+            "Key": "57db21d3-ec00-436e-b9b5-cd611115cd51",
+            "Value": {
+                "id": "8c463a06-79a2-46f5-a534-cfc2616fe84d",
+                "resourcePath": "sprites\\spr_room2ToRoom3Anim\\spr_room2ToRoom3Anim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5856642c-0b6f-4a61-9f06-a9a9b5e2144c",
             "Value": {
                 "id": "39ada1e8-05fb-40e4-8bb1-c59e75ddde02",
@@ -796,6 +812,14 @@
                 "id": "d74a6922-fd84-45e6-a4c7-cb359ab08c23",
                 "resourcePath": "views\\7e0dc4f1-dd1f-46cf-bddd-e2246f7ccf00.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "80b3517d-8040-4cab-936d-5fcf000ff98b",
+            "Value": {
+                "id": "53c4dcc6-fab6-4a0c-8c47-354dc6f027fa",
+                "resourcePath": "sprites\\spr_room1ToRoom2Anim\\spr_room1ToRoom2Anim.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1415,6 +1439,22 @@
             }
         },
         {
+            "Key": "e965a0f0-314c-4af4-aa01-2a4569fbbbc6",
+            "Value": {
+                "id": "9e4b517a-10b5-4086-9612-3d3c32ea1243",
+                "resourcePath": "rooms\\room2DoorOpenAnimation\\room2DoorOpenAnimation.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e9789c71-7fb7-40bf-8dd1-f899e152ebb3",
+            "Value": {
+                "id": "d9d4b043-67ff-4ab5-aabb-174ab58aecca",
+                "resourcePath": "rooms\\room1DoorOpenAnimation\\room1DoorOpenAnimation.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ea7409a5-9079-4687-a3fa-a3968b0d3c7f",
             "Value": {
                 "id": "f7df5c84-073b-456f-a65c-136bb10b78cb",
@@ -1531,6 +1571,14 @@
             "Value": {
                 "id": "c0367d6e-492d-406e-9f61-5545461aca35",
                 "resourcePath": "objects\\obj_TextBoxSpawner\\obj_TextBoxSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ff60dd1b-4e5d-4e9a-8ee3-b65199fb83c8",
+            "Value": {
+                "id": "3fdb3518-026e-44d0-abf0-7c538660e4d8",
+                "resourcePath": "objects\\obj_DoorAnimationController\\obj_DoorAnimationController.yy",
                 "resourceType": "GMObject"
             }
         }

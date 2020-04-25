@@ -5,3 +5,4 @@ if (!variable_global_exists("isLocked"))
 if (!variable_global_exists("isRunePuzzleSolved"))
 	global.isRunePuzzleSolved = false;
 global.door1Combo = "3234";
+justUnlocked = true;
