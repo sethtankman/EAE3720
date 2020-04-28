@@ -1,3 +1,4 @@
 /// @description Mouse has entered
-mouseOver = true;
-
+if(global.radioOverlay == false) {
+	mouseOver = true;
+}

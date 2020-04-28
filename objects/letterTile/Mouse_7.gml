@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+if(global.radioOverlay == false) {
 // disables click overlay
 if (clicked_overlay != noone)
 {
@@ -34,4 +34,5 @@ if (global.activeRune != noone)
 	
 	// De-selects the rune
 	//global.activeRune = noone;
+}
 }

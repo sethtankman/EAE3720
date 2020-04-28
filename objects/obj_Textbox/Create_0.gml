@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+isRadioTextbox = false
 name = noone;
 text = "dude bro. lots of words. lots and lots and lots of them.  Keep typing so that yo uhave a bunch of letters";
 page = 0;

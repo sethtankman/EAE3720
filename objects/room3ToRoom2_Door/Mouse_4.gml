@@ -1,2 +1,4 @@
 /// @description Switches to a new room when the door is clicked
-room_goto(room2_Rear);
+if(global.radioOverlay == false) {
+	room_goto(room2_Rear);
+}
