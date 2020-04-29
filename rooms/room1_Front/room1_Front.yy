@@ -10,8 +10,7 @@
         "889392c7-3193-486c-94fb-27771943067c",
         "4e5aeba9-0986-4cde-a389-19d2f922615b",
         "bc256bf5-4f35-433a-b83d-716f5adacd39",
-        "de36d6c8-ad57-43bf-ad7d-2eac896d6e46",
-        "5a606484-7644-45a5-ac61-e5c047370d43"
+        "de36d6c8-ad57-43bf-ad7d-2eac896d6e46"
     ],
     "IsDnD": false,
     "layers": [
@@ -29,8 +28,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_789FEADD","id": "889392c7-3193-486c-94fb-27771943067c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_789FEADD","objId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","properties": [{"id": "a2cb7acf-2a12-433a-a754-b2c9d6ec5f29","modelName": "GMOverriddenProperty","objectId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","propertyId": "2a895d1b-b7b6-47cc-ae5b-d8f755d71bcc","mvc": "1.0","value": "Axe"}],"rotation": 0,"scaleX": 6.5,"scaleY": 7,"mvc": "1.1","x": 576,"y": 448},
-{"name": "inst_67500C1F","id": "5a606484-7644-45a5-ac61-e5c047370d43","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_67500C1F","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "5ab1f5fd-ddb3-4607-9c4d-903d267e244b","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "^Mel: Think you can use that axe head for anything?^ ^Qvo: Nah it's bolted down.^"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1696,"y": 832}
+{"name": "inst_789FEADD","id": "889392c7-3193-486c-94fb-27771943067c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_789FEADD","objId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","properties": [{"id": "a2cb7acf-2a12-433a-a754-b2c9d6ec5f29","modelName": "GMOverriddenProperty","objectId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","propertyId": "2a895d1b-b7b6-47cc-ae5b-d8f755d71bcc","mvc": "1.0","value": "Axe"}],"rotation": 0,"scaleX": 6.5,"scaleY": 7,"mvc": "1.1","x": 576,"y": 448}
             ],
             "layers": [
 

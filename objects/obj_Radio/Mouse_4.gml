@@ -2,15 +2,15 @@
 //Sets the variables for the opening textbox.
 //parse the string input in variable definitions
 if(global.radioOverlay == false) {
-	start = string_pos("^", dialogue);
+	start = string_pos("-", dialogue);
 	index = 0;
 	while (start != 0) {
 		dialogue = string_delete(dialogue, start, 1);
-		nextQuote = string_pos("^", dialogue);
+		nextQuote = string_pos("-", dialogue);
 		section = string_copy(dialogue, 1, nextQuote -1);
 		myText[index] = section;
 		dialogue = string_delete(dialogue, 1, nextQuote);
-		start = string_pos("^", dialogue);
+		start = string_pos("-", dialogue);
 		index += 1;
 	}
 

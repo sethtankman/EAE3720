@@ -8,14 +8,15 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "17d789d0-3bd9-413d-89b0-3b23254facad",
-        "06003f64-0d15-4d97-aa19-ec4466856769"
+        "06003f64-0d15-4d97-aa19-ec4466856769",
+        "ce8dc803-4a19-49c2-896a-8b8746b899db"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
-            "id": "256d4405-f4e3-415e-b9fe-c425c8f670d7",
+            "name": "TextBoxLayer",
+            "id": "93a00bc2-5931-4950-9416-5ef3f44245b5",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -26,8 +27,35 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instances",
+            "id": "256d4405-f4e3-415e-b9fe-c425c8f670d7",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
 {"name": "inst_638728ED","id": "17d789d0-3bd9-413d-89b0-3b23254facad","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_638728ED","objId": "2590bda1-9bb7-4b42-94c8-dca139434882","properties": [{"id": "de7943f6-6597-4702-97e9-1842cb2adea1","modelName": "GMOverriddenProperty","objectId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","propertyId": "81d774ac-9d2d-4d22-966c-7f0a02b92378","mvc": "1.0","value": "room2_Left"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 768,"y": 928},
-{"name": "inst_410E0AB","id": "06003f64-0d15-4d97-aa19-ec4466856769","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_410E0AB","objId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","properties": [{"id": "89c30707-5457-4f8b-9803-0051d8728b7d","modelName": "GMOverriddenProperty","objectId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","propertyId": "2957c7d3-559f-4374-bdf8-b2606746ad2b","mvc": "1.0","value": "obj_ShipText"}],"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 608,"y": 576}
+{"name": "inst_410E0AB","id": "06003f64-0d15-4d97-aa19-ec4466856769","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_410E0AB","objId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","properties": [{"id": "89c30707-5457-4f8b-9803-0051d8728b7d","modelName": "GMOverriddenProperty","objectId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","propertyId": "2957c7d3-559f-4374-bdf8-b2606746ad2b","mvc": "1.0","value": "obj_ShipText"}],"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 608,"y": 576},
+{"name": "inst_6B79D786","id": "ce8dc803-4a19-49c2-896a-8b8746b899db","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6B79D786","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "64d55df1-7d4d-42ed-9227-0e519c12b4c3","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: Any luck finding a way in?- -Mel: Not yet. But I think I’m getting closer, just keep moving.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
             ],
             "layers": [
 
@@ -46,7 +74,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

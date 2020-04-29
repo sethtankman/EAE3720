@@ -25,15 +25,42 @@
         "3e0279a1-31bc-466e-9b8d-c3f70ab6ecbd",
         "c2625e60-252e-473c-ad9b-d6dad452578b",
         "d3315516-d188-4eaa-b597-bfd07d788537",
-        "2fd24cac-5345-444f-99d7-32296347a036"
+        "2fd24cac-5345-444f-99d7-32296347a036",
+        "1a1b31ff-70e3-43d1-8108-0e8f819ed0f7"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "TextBoxLayer",
+            "id": "990401b8-4450-4e32-8f25-1ed6cec6d47b",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "UI",
             "id": "71d2dbfb-e1f4-4745-93f7-e674a2e89b52",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 22,
             "grid_y": 22,
             "hierarchyFrozen": false,
@@ -43,7 +70,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_300FCC93","id": "2fd24cac-5345-444f-99d7-32296347a036","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_300FCC93","objId": "b917fbf0-bf2d-4e50-9efe-a9cf3d8b659e","properties": null,"rotation": 0,"scaleX": 0.936,"scaleY": 1,"mvc": "1.1","x": 1254,"y": 96}
+{"name": "inst_300FCC93","id": "2fd24cac-5345-444f-99d7-32296347a036","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_300FCC93","objId": "b917fbf0-bf2d-4e50-9efe-a9cf3d8b659e","properties": null,"rotation": 0,"scaleX": 0.936,"scaleY": 1,"mvc": "1.1","x": 1254,"y": 96},
+{"name": "inst_37E5B2BC","id": "1a1b31ff-70e3-43d1-8108-0e8f819ed0f7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_37E5B2BC","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "caae77a3-a00b-49b7-bb35-ad9bd0c12f4b","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: I can't make the shape I want!- -Mel: Relax! Maybe try and step back and visualize it a bit first. You can't brute force these things.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
             ],
             "layers": [
 
@@ -59,7 +87,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "buttons",
             "id": "465978e3-c646-425b-9baa-8d3af1bd2c11",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -85,7 +113,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "tiles",
             "id": "1bd3fa18-f380-413a-8ab4-1341542abf23",
-            "depth": 200,
+            "depth": 300,
             "grid_x": 1,
             "grid_y": 1,
             "hierarchyFrozen": false,
@@ -127,7 +155,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "controllers",
             "id": "a366cd16-474e-4426-8793-457de942fcfa",
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -156,7 +184,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 400,
+            "depth": 500,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

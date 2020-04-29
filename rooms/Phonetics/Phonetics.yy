@@ -8,14 +8,15 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "6715b896-d51a-46ae-948e-47ef30fb6829",
-        "8c048933-2e0d-4b58-b80f-0a1ee01c2ef1"
+        "8c048933-2e0d-4b58-b80f-0a1ee01c2ef1",
+        "e0006ad0-ae17-485b-a486-891c11ffc229"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
-            "id": "7fac9c94-5c51-4371-a6c2-56602a1d0fda",
+            "name": "TextBoxLayer",
+            "id": "cccca0f2-00a9-4974-8423-f6dfb0a2230e",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -26,8 +27,35 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instances",
+            "id": "7fac9c94-5c51-4371-a6c2-56602a1d0fda",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
 {"name": "inst_74A2D57C","id": "6715b896-d51a-46ae-948e-47ef30fb6829","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_74A2D57C","objId": "2590bda1-9bb7-4b42-94c8-dca139434882","properties": [{"id": "6236d913-1219-493e-b70d-9bbc01d4bf6c","modelName": "GMOverriddenProperty","objectId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","propertyId": "81d774ac-9d2d-4d22-966c-7f0a02b92378","mvc": "1.0","value": "room2_Right"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 768,"y": 928},
-{"name": "inst_36B87A74","id": "8c048933-2e0d-4b58-b80f-0a1ee01c2ef1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_36B87A74","objId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","properties": [{"id": "9bff8bb4-9c81-4999-a47e-f7a0b3f34002","modelName": "GMOverriddenProperty","objectId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","propertyId": "2957c7d3-559f-4374-bdf8-b2606746ad2b","mvc": "1.0","value": "obj_PhoneticsText"}],"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 576,"y": 736}
+{"name": "inst_36B87A74","id": "8c048933-2e0d-4b58-b80f-0a1ee01c2ef1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_36B87A74","objId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","properties": [{"id": "9bff8bb4-9c81-4999-a47e-f7a0b3f34002","modelName": "GMOverriddenProperty","objectId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","propertyId": "2957c7d3-559f-4374-bdf8-b2606746ad2b","mvc": "1.0","value": "obj_PhoneticsText"}],"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 576,"y": 736},
+{"name": "inst_45D843D3","id": "e0006ad0-ae17-485b-a486-891c11ffc229","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_45D843D3","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "d35e2cc8-2f9a-450b-bfe4-a32a65e7b019","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: Hey, Mel what’s phonetic reading mean?- -Mel: It’s kind of like reading something by sounding it out. Something spelled phonetically may not look like the right word, but will sound right when said out loud.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
             ],
             "layers": [
 
@@ -46,7 +74,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
