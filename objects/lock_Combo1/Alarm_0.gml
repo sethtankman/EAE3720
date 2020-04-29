@@ -8,6 +8,6 @@ if (global.door1Combo == string(global.lock_combo_2)
 {
 	global.isLocked = false;
 	// Goes backs out to main room view
-	room_goto(room1_Rear);
+	room_goto(YouWinStandIn);
 }
 alarm[0] = 10;

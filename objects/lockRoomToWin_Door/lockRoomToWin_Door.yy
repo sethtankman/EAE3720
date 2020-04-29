@@ -1,18 +1,28 @@
 {
-    "id": "33707c9f-1308-4bb5-86b3-f61cad2aba37",
+    "id": "f09af953-1114-48cf-84ab-a562533c83a1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "room2ToRoom1_Door",
+    "name": "lockRoomToWin_Door",
     "eventList": [
         {
-            "id": "c9a89ea2-8992-4aff-85b7-44be9f4b38df",
+            "id": "0c8fce5d-c53e-4c8d-ad34-2b66c0ade4f1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "33707c9f-1308-4bb5-86b3-f61cad2aba37"
+            "m_owner": "f09af953-1114-48cf-84ab-a562533c83a1"
+        },
+        {
+            "id": "a61b554f-94df-4810-af13-d5bfde2a1dbd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f09af953-1114-48cf-84ab-a562533c83a1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

@@ -4,9 +4,9 @@
     "mvc": "1.1",
     "name": "a01f0b97-ff05-469a-bd84-77d2066d0d30",
     "children": [
+        "ab6e3f56-f58c-469b-86cc-3d2899307bcd",
         "f07b6ce9-a8ec-4b54-9670-10d644db345c",
         "a26b8a30-ccc1-402d-bb30-9aae6f599048",
-        "ab6e3f56-f58c-469b-86cc-3d2899307bcd",
         "14a5c471-07ab-40d9-ab71-a3695a383bad",
         "901fffd3-894f-4f03-85b3-7ed88422f485",
         "9d0c49ff-d077-46f5-862d-ae5570d0214b",
@@ -19,7 +19,7 @@
         "e965a0f0-314c-4af4-aa01-2a4569fbbbc6"
     ],
     "filterType": "GMRoom",
-    "folderName": "room2",
+    "folderName": "rune_room",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

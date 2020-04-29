@@ -14,7 +14,7 @@ for (var i = 0; i < 16; i++)
 if (solved)
 {
 	global.isRunePuzzleSolved = true;
-	room_goto(room2DoorOpenAnimation);
+	room_goto(RuneRoomDoorOpenAnimation);
 }
 
 alarm[0] = 30;

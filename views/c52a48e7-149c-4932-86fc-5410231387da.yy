@@ -4,9 +4,9 @@
     "mvc": "1.1",
     "name": "c52a48e7-149c-4932-86fc-5410231387da",
     "children": [
+        "3b23ca3a-6f7f-44f9-9c3d-1a0619dca020",
         "e76606e6-b049-42fb-a98c-89544d2a6f3f",
         "af87c63a-7806-4052-b48c-c58f03cd0b58",
-        "3b23ca3a-6f7f-44f9-9c3d-1a0619dca020",
         "677cc42f-b71a-4101-974c-dca53a9d99d2",
         "04ffe68d-bd2e-42c0-bfe7-fa38a2d1adaa",
         "1bc147e3-53d3-43a5-b634-146d3cf87793",
@@ -15,10 +15,11 @@
         "c646a89c-3836-49c2-8406-90af52b9b848",
         "cf77f1d2-9a17-49ec-82f4-4f4ae350ea81",
         "ac166a1b-a33f-4a14-b672-7b5c4eae1347",
-        "3b5159d2-7390-4cfb-9be9-7a76dad62150"
+        "3b5159d2-7390-4cfb-9be9-7a76dad62150",
+        "e9789c71-7fb7-40bf-8dd1-f899e152ebb3"
     ],
     "filterType": "GMRoom",
-    "folderName": "room3",
+    "folderName": "tile_room",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -1,6 +1,6 @@
 
 {
-    "name": "room2DoorOpenAnimation",
+    "name": "RuneRoomDoorOpenAnimation",
     "id": "e965a0f0-314c-4af4-aa01-2a4569fbbbc6",
     "creationCodeFile": "",
     "inheritCode": false,

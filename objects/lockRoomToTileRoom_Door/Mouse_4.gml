@@ -4,5 +4,5 @@
 if (global.radioOverlay == false)
 {
 	// Moves to the previous room
-	room_goto(room1_Front);
+	room_goto(room3_Left);
 }

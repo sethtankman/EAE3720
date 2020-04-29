@@ -2,7 +2,7 @@
     "id": "f1914465-e837-4ad6-939b-b060906ed646",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "room2ToRoom3_Door",
+    "name": "runeRoomToTileRoom_Door",
     "eventList": [
         {
             "id": "a7fd868e-073c-4852-9548-ea908046360e",

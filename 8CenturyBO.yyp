@@ -362,7 +362,7 @@
             "Key": "33707c9f-1308-4bb5-86b3-f61cad2aba37",
             "Value": {
                 "id": "1b0fa1c8-c452-48c7-9db6-a6298e3bb866",
-                "resourcePath": "objects\\room2ToRoom1_Door\\room2ToRoom1_Door.yy",
+                "resourcePath": "objects\\lockRoomToTileRoom_Door\\lockRoomToTileRoom_Door.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -922,7 +922,7 @@
             "Key": "92c9ea80-bafe-4653-9747-4b2ff789a0fa",
             "Value": {
                 "id": "2af02b26-3c5e-49b7-95e6-67a770fed28b",
-                "resourcePath": "objects\\room3ToRoom2_Door\\room3ToRoom2_Door.yy",
+                "resourcePath": "objects\\tileRoomToRuneRoom_Door\\tileRoomToRuneRoom_Door.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -940,6 +940,14 @@
                 "id": "7bd30c04-07cd-4519-ae4a-9620728d0e10",
                 "resourcePath": "rooms\\Fishing\\Fishing.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "95d80d63-3b26-47b0-b070-4b01fc73cddd",
+            "Value": {
+                "id": "8ea117a1-77cc-48f1-a51f-7665424e9793",
+                "resourcePath": "objects\\tileRoomToLockRoom_Door\\tileRoomToLockRoom_Door.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1490,7 +1498,7 @@
             "Key": "e965a0f0-314c-4af4-aa01-2a4569fbbbc6",
             "Value": {
                 "id": "9e4b517a-10b5-4086-9612-3d3c32ea1243",
-                "resourcePath": "rooms\\room2DoorOpenAnimation\\room2DoorOpenAnimation.yy",
+                "resourcePath": "rooms\\RuneRoomDoorOpenAnimation\\RuneRoomDoorOpenAnimation.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1498,7 +1506,7 @@
             "Key": "e9789c71-7fb7-40bf-8dd1-f899e152ebb3",
             "Value": {
                 "id": "d9d4b043-67ff-4ab5-aabb-174ab58aecca",
-                "resourcePath": "rooms\\room1DoorOpenAnimation\\room1DoorOpenAnimation.yy",
+                "resourcePath": "rooms\\tileRoomDoorOpenAnimation\\tileRoomDoorOpenAnimation.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1554,7 +1562,7 @@
             "Key": "f09af953-1114-48cf-84ab-a562533c83a1",
             "Value": {
                 "id": "333f27e0-ba6a-4f60-9e3f-7e483544cf3b",
-                "resourcePath": "objects\\room1ToRoom2_Door\\room1ToRoom2_Door.yy",
+                "resourcePath": "objects\\lockRoomToWin_Door\\lockRoomToWin_Door.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1562,7 +1570,7 @@
             "Key": "f1914465-e837-4ad6-939b-b060906ed646",
             "Value": {
                 "id": "f79957f6-e33c-4bd4-a389-9d26e4181dfc",
-                "resourcePath": "objects\\room2ToRoom3_Door\\room2ToRoom3_Door.yy",
+                "resourcePath": "objects\\runeRoomToTileRoom_Door\\runeRoomToTileRoom_Door.yy",
                 "resourceType": "GMObject"
             }
         },

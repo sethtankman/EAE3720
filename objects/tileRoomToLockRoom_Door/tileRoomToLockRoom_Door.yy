@@ -1,18 +1,18 @@
 {
-    "id": "92c9ea80-bafe-4653-9747-4b2ff789a0fa",
+    "id": "95d80d63-3b26-47b0-b070-4b01fc73cddd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "room3ToRoom2_Door",
+    "name": "tileRoomToLockRoom_Door",
     "eventList": [
         {
-            "id": "819517e6-2634-41a4-9e8f-72fff0414ec0",
+            "id": "3bf26fc3-8e86-41b6-b158-6844c9b572c5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 6,
-            "m_owner": "92c9ea80-bafe-4653-9747-4b2ff789a0fa"
+            "m_owner": "95d80d63-3b26-47b0-b070-4b01fc73cddd"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
