@@ -13,7 +13,8 @@
         "7d546f61-15a6-4c97-855f-d0f02664204b",
         "f0f59679-908f-4cf1-800b-30fbea422d2a",
         "ed6bc5df-c759-40f3-aa66-70a40d323da6",
-        "628a8009-bc41-42fe-aa39-de846cce61c4"
+        "628a8009-bc41-42fe-aa39-de846cce61c4",
+        "1164277e-bcec-4c16-a43b-3cd90cf500bc"
     ],
     "IsDnD": false,
     "layers": [
@@ -31,7 +32,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_2F3A4141","id": "628a8009-bc41-42fe-aa39-de846cce61c4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2F3A4141","objId": "bff21301-03f9-435c-b55d-664ff9654a49","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 672,"y": 832}
+{"name": "inst_2F3A4141","id": "628a8009-bc41-42fe-aa39-de846cce61c4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2F3A4141","objId": "bff21301-03f9-435c-b55d-664ff9654a49","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 672,"y": 832},
+{"name": "inst_46E21574","id": "1164277e-bcec-4c16-a43b-3cd90cf500bc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_46E21574","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "93cb6a24-ec86-4029-879c-9b868821d890","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: Mel are you there?- -Mel: I’m still here. You can talk to me whenever you’re stuck.- -Qvo: What are you an NPC?- "}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
             ],
             "layers": [
 
