@@ -7,7 +7,7 @@ if (!variable_global_exists("isTilePuzzleCorrect"))
 	global.isTilePuzzleCorrect = array_create(16);
 for (var i = 0; i < 16; i++)
 {
-	global.isTilePuzzleCorrect[i] = -1;
+	global.isTilePuzzleCorrect[i] = "";
 }
 
 if (!variable_global_exists("tilePuzzleImageIndexState"))

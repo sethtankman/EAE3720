@@ -28,6 +28,7 @@ for (i = 1; i < (string_length(msg)+1); i++) {
 }
 
 // Cycles through the correct answers
+var correctIndexes = "";
 for (i = 0; i < array_length_1d(splits); i++)
 {
 	var realCorrectAnswer = real(splits[i]);
@@ -37,29 +38,27 @@ for (i = 0; i < array_length_1d(splits); i++)
 	{
 		if (image_index == realCorrectAnswer)
 		{
-			global.isTilePuzzleCorrect[tileIndex] = i; // true
+			correctIndexes += string(i) + ","; // true
 		}
 	}
 	else if (floor(realCorrectAnswer / 4) == type)
 	{
 		// Corrects for rotation to check if the block is correct
 		var rotateCount = floor(rotation / 90);
-		show_debug_message(type)
-		show_debug_message(rotateCount)
-		show_debug_message(image_index)
 		if ((image_index + rotateCount) % 4 == realCorrectAnswer % 4)
 		{
-			global.isTilePuzzleCorrect[tileIndex] = i; // true
+			correctIndexes += string(i) + ","; // true
 		}
 		else
 		{
-			global.isTilePuzzleCorrect[tileIndex] = -1; // false
+			//global.isTilePuzzleCorrect[tileIndex] = -1; // false
 		}
 	}
 	else
 	{
-		global.isTilePuzzleCorrect[tileIndex] = -1; // false
+		//global.isTilePuzzleCorrect[tileIndex] = -1; // false
 	}
 }
+global.isTilePuzzleCorrect[tileIndex] = correctIndexes;
 
 alarm[0] = 10;
