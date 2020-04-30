@@ -7,9 +7,9 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "46fa6233-86f5-4d03-ab15-7f5d33aacae5",
         "2aa1a334-268b-462f-8b02-62771c4d4aae",
-        "4b10b336-cc7e-4956-aad2-249062f6ccb3"
+        "4b10b336-cc7e-4956-aad2-249062f6ccb3",
+        "4766c2e6-4037-4e16-b26e-35f6ac9a2a11"
     ],
     "IsDnD": false,
     "layers": [
@@ -53,9 +53,9 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_749FEB9D","id": "46fa6233-86f5-4d03-ab15-7f5d33aacae5","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_749FEB9D","objId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","properties": [{"id": "d856f04e-9238-4091-9fa5-2095943fcf15","modelName": "GMOverriddenProperty","objectId": "fcb61d4e-42f2-4fc8-becf-72ab25569cc5","propertyId": "2957c7d3-559f-4374-bdf8-b2606746ad2b","mvc": "1.0","value": "obj_AxeText"}],"rotation": 0,"scaleX": 2.375,"scaleY": 2.375,"mvc": "1.1","x": 1078,"y": 286},
 {"name": "inst_52353A2","id": "2aa1a334-268b-462f-8b02-62771c4d4aae","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_52353A2","objId": "2590bda1-9bb7-4b42-94c8-dca139434882","properties": [{"id": "48ddc06e-f6b5-4fc9-80c9-e30eb3b94ec0","modelName": "GMOverriddenProperty","objectId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","propertyId": "81d774ac-9d2d-4d22-966c-7f0a02b92378","mvc": "1.0","value": "room1_Front"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 768,"y": 928},
-{"name": "inst_B4AC90F","id": "4b10b336-cc7e-4956-aad2-249062f6ccb3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_B4AC90F","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "1d434fdd-87d1-4078-8a30-8abc10eb4d73","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Mel: Think you can use that axe head for anything?- -Qvo: Nah it's bolted down.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
+{"name": "inst_B4AC90F","id": "4b10b336-cc7e-4956-aad2-249062f6ccb3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_B4AC90F","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "1d434fdd-87d1-4078-8a30-8abc10eb4d73","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Mel: Think you can use that axe head for anything?- -Qvo: Nah it's bolted down.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830},
+{"name": "inst_6AC8FAC4","id": "4766c2e6-4037-4e16-b26e-35f6ac9a2a11","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6AC8FAC4","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "9dbde983-47af-4b7f-8787-012ac5375640","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: It looks sharp. Get it? Because it's an axe head? I should probably try to find a way out.-"}],"rotation": 0,"scaleX": 8.21875,"scaleY": 4.09375,"mvc": "1.1","x": 440,"y": 462}
             ],
             "layers": [
 

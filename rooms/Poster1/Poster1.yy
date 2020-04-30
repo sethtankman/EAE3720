@@ -8,7 +8,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "600b5207-681b-4d17-8ae2-fad440f9a0dc",
-        "4baedf35-888f-4a5b-98c7-4722b8123a69"
+        "4baedf35-888f-4a5b-98c7-4722b8123a69",
+        "b7148091-2344-4310-922d-988298c8542c"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +27,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_13AC452C","id": "b7148091-2344-4310-922d-988298c8542c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_13AC452C","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "6296c11e-2f02-460c-baa7-e001b5da7d1a","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Now that's the good life! Just lounging around wearing nothing but a cape with my pet ravens and wolves.-"}],"rotation": 0,"scaleX": 12,"scaleY": 14.5,"mvc": "1.1","x": 576,"y": 0}
             ],
             "layers": [
 

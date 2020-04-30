@@ -8,7 +8,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "96e38a3c-4f8c-4472-9eca-89bcf58c3df4",
-        "a37de3ab-e214-43b3-b587-f96f00bebd2c"
+        "a37de3ab-e214-43b3-b587-f96f00bebd2c",
+        "3bad9027-3b38-42b8-b4a7-87d53fc686f9"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +27,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_57C1E045","id": "3bad9027-3b38-42b8-b4a7-87d53fc686f9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_57C1E045","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "ce9317a0-fab0-4198-a882-230120d2a207","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: East Fork of the River? What River?-"}],"rotation": 0,"scaleX": 11,"scaleY": 13.5,"mvc": "1.1","x": 608,"y": 32}
             ],
             "layers": [
 

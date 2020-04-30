@@ -895,6 +895,14 @@
             }
         },
         {
+            "Key": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5",
+            "Value": {
+                "id": "b352cdd0-5807-43e1-acb4-eef653d81944",
+                "resourcePath": "objects\\obj_TextBoxOverlay\\obj_TextBoxOverlay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8b1f2459-8103-4cf8-ab83-6e4496dc38dc",
             "Value": {
                 "id": "59afdcfa-b337-4ee8-b6c1-1c7ba155e65e",

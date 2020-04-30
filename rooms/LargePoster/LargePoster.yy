@@ -8,7 +8,9 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "af4f4930-cd2a-472f-bc97-abea1adf3588",
-        "39973320-227b-43dd-a911-a3c66bee0730"
+        "39973320-227b-43dd-a911-a3c66bee0730",
+        "2917a370-b3be-4e68-8d81-23db546264ab",
+        "7ea899b5-f216-4e4d-942f-d97dd89ab812"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_1E012EA2","id": "2917a370-b3be-4e68-8d81-23db546264ab","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1E012EA2","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "da75eb3c-4185-4e02-b0a4-6a9dcba8cd48","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Row row row your boat gently down the stream, please just let me leave!-"}],"rotation": 0,"scaleX": 26.5,"scaleY": 13,"mvc": "1.1","x": 0,"y": 96},
+{"name": "inst_6ED53810","id": "7ea899b5-f216-4e4d-942f-d97dd89ab812","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6ED53810","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "18d348a0-c083-417d-9252-cefb6ff59ef8","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Row row row your boat gently down the stream, please just let me leave!-"}],"rotation": 0,"scaleX": 3.5,"scaleY": 11,"mvc": "1.1","x": 1696,"y": 96}
             ],
             "layers": [
 

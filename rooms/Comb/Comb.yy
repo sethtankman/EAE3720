@@ -8,7 +8,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "0d68d726-9047-4160-95fa-068e9dda5c43",
-        "3b68f3ef-54f9-42c2-845f-77d7321c208f"
+        "3b68f3ef-54f9-42c2-845f-77d7321c208f",
+        "991f244c-7bf2-48e1-a0a4-91fc92437fe9"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +27,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_76A7B67F","id": "991f244c-7bf2-48e1-a0a4-91fc92437fe9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_76A7B67F","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "6341b62f-ee9c-4962-be02-968a2e42248e","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Huh I guess Vikings were pretty hygienic. Well hygienic for the 8th to 11th centuries, I guess.-"}],"rotation": 0,"scaleX": 20,"scaleY": 3.5,"mvc": "1.1","x": 352,"y": 576}
             ],
             "layers": [
 

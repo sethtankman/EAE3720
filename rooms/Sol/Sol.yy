@@ -8,7 +8,8 @@
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "1d89413a-f307-4d57-a8bf-c0b8fb7b4d76",
-        "a07232d4-ea1c-4cb8-94c2-aac6466df012"
+        "a07232d4-ea1c-4cb8-94c2-aac6466df012",
+        "fd62027c-c0bb-4356-8332-7041a45a5eb5"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +27,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_3DCF8227","id": "fd62027c-c0bb-4356-8332-7041a45a5eb5","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3DCF8227","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "6027c988-2e26-4cf1-8f4c-9be846de6e89","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Weird the symbol is like a lightning bolt but it stands for the sun. I guess Vikings didn't like circular runes.-"}],"rotation": 0,"scaleX": 10.5,"scaleY": 9,"mvc": "1.1","x": 704,"y": 32}
             ],
             "layers": [
 
