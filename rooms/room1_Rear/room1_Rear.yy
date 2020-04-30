@@ -11,7 +11,8 @@
         "bcdad09c-a1ef-4ea8-9887-67d2a9f388ea",
         "44b1a2f6-81b8-430a-bd3d-1b32dcf32822",
         "6c842353-670b-47df-a9c2-4d37cd8315d9",
-        "55635db3-916c-4dc0-9bde-c5be72f67339"
+        "55635db3-916c-4dc0-9bde-c5be72f67339",
+        "49e95b87-4dae-46fa-a387-e374986d8d58"
     ],
     "IsDnD": false,
     "layers": [
@@ -29,7 +30,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_6885CE2E","id": "44b1a2f6-81b8-430a-bd3d-1b32dcf32822","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": true,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6885CE2E","objId": "bff21301-03f9-435c-b55d-664ff9654a49","properties": null,"rotation": 0,"scaleX": 5,"scaleY": 5,"mvc": "1.1","x": 672,"y": 832}
+{"name": "inst_6885CE2E","id": "44b1a2f6-81b8-430a-bd3d-1b32dcf32822","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": true,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6885CE2E","objId": "bff21301-03f9-435c-b55d-664ff9654a49","properties": null,"rotation": 0,"scaleX": 5,"scaleY": 5,"mvc": "1.1","x": 672,"y": 832},
+{"name": "inst_3E09ED8F","id": "49e95b87-4dae-46fa-a387-e374986d8d58","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3E09ED8F","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "05437c41-2927-4c44-8a0c-f0b3bcb1453e","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: Mel there are so many plaques in here!- -Mel: That's good right? Lots of information to work with?- -Qvo: I don't want to read it all.- -Mel: And I don't want to get arrested for breaking and entering. Hit the books little brother.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
             ],
             "layers": [
 

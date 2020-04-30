@@ -10,15 +10,42 @@
         "55a45600-02c4-470d-8d24-4758823cf0fe",
         "9859f129-4679-4a12-8747-4604c5d09d04",
         "b312b94f-fcb3-41ff-82d7-d19eb5f33d71",
-        "5352732e-3b49-4b88-9b0b-3a7596836f1d"
+        "5352732e-3b49-4b88-9b0b-3a7596836f1d",
+        "f8fc752c-1d11-455d-b244-14e6c4c3b154"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "TextBoxLayer",
+            "id": "f7173c02-030d-40f7-8457-9c941967667c",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "dd4d2ff8-a6d7-4129-8c9f-cd184eafeb3f",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -31,7 +58,8 @@
 {"name": "inst_509E67A6","id": "55a45600-02c4-470d-8d24-4758823cf0fe","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_509E67A6","objId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","properties": [{"id": "caa7b302-5681-4260-a7a7-76d68533c4b4","modelName": "GMOverriddenProperty","objectId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","propertyId": "81d774ac-9d2d-4d22-966c-7f0a02b92378","mvc": "1.0","value": "room3_Right"}],"rotation": 0,"scaleX": 1,"scaleY": 0.9243884,"mvc": "1.1","x": 32,"y": 352},
 {"name": "inst_60CA7B46","id": "9859f129-4679-4a12-8747-4604c5d09d04","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_60CA7B46","objId": "3ab81ba1-a2cb-45bf-ab80-0777349cf938","properties": [{"id": "97e9b4a8-6400-4231-aa5f-c9c36b9bacc9","modelName": "GMOverriddenProperty","objectId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","propertyId": "81d774ac-9d2d-4d22-966c-7f0a02b92378","mvc": "1.0","value": "room3_Left"}],"rotation": 0,"scaleX": 1,"scaleY": 0.9243884,"mvc": "1.1","x": 1824,"y": 352},
 {"name": "inst_7AA5241D","id": "b312b94f-fcb3-41ff-82d7-d19eb5f33d71","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7AA5241D","objId": "92c9ea80-bafe-4653-9747-4b2ff789a0fa","properties": null,"rotation": 0,"scaleX": 5,"scaleY": 11.5,"mvc": "1.1","x": 800,"y": 128},
-{"name": "inst_19E9E81D","id": "5352732e-3b49-4b88-9b0b-3a7596836f1d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_19E9E81D","objId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","properties": [{"id": "503c2078-1109-41c8-92f5-b9b61356f2b3","modelName": "GMOverriddenProperty","objectId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","propertyId": "2a895d1b-b7b6-47cc-ae5b-d8f755d71bcc","mvc": "1.0","value": "Poster1"}],"rotation": 0,"scaleX": 5,"scaleY": 6.5,"mvc": "1.1","x": 1248,"y": 320}
+{"name": "inst_19E9E81D","id": "5352732e-3b49-4b88-9b0b-3a7596836f1d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_19E9E81D","objId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","properties": [{"id": "503c2078-1109-41c8-92f5-b9b61356f2b3","modelName": "GMOverriddenProperty","objectId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","propertyId": "2a895d1b-b7b6-47cc-ae5b-d8f755d71bcc","mvc": "1.0","value": "Poster1"}],"rotation": 0,"scaleX": 5,"scaleY": 6.5,"mvc": "1.1","x": 1248,"y": 320},
+{"name": "inst_337C55A5","id": "f8fc752c-1d11-455d-b244-14e6c4c3b154","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_337C55A5","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "d7b86db3-7f80-4ea7-a535-5a9c17634638","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: Do you think there's anything in a past room that could help?- -Mel: I doubt it. Museums are normally pretty well sectioned into parts.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
             ],
             "layers": [
 
@@ -50,7 +78,7 @@
             "animationFPS": 0,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
