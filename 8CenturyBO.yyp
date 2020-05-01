@@ -498,7 +498,7 @@
             "Key": "3593d15b-9df5-45eb-ae8d-4db882e6449e",
             "Value": {
                 "id": "99af6542-3b37-4667-9d5f-bdb430602677",
-                "resourcePath": "sprites\\spr_BlockOutLeft\\spr_BlockOutLeft.yy",
+                "resourcePath": "sprites\\spr_room1Right\\spr_room1Right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1154,7 +1154,7 @@
             "Key": "7db2a7c4-fdba-4aa8-99bc-d5935bb1f83e",
             "Value": {
                 "id": "0db9cb59-5022-4f34-8884-d7d78c725409",
-                "resourcePath": "rooms\\room1_Left\\room1_Left.yy",
+                "resourcePath": "rooms\\room1_Right\\room1_Right.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1594,7 +1594,7 @@
             "Key": "aba1fca1-a5ef-41cd-97f7-9139e5bec7cb",
             "Value": {
                 "id": "18e078e0-8dbd-45f0-8b2d-8f26d97f83e3",
-                "resourcePath": "sprites\\spr_BlockOutRight\\spr_BlockOutRight.yy",
+                "resourcePath": "sprites\\spr_room1Left\\spr_room1Left.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1650,7 +1650,7 @@
             "Key": "b1eb0887-eeb9-4577-9bed-be9d15648e76",
             "Value": {
                 "id": "a9c280fc-ed4e-4f6c-bf4a-05b14df1d67a",
-                "resourcePath": "rooms\\room1_Right\\room1_Right.yy",
+                "resourcePath": "rooms\\room1_Left\\room1_Left.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -2162,7 +2162,7 @@
             "Key": "ec77c3c2-fa6d-43ad-85db-c42ef9202835",
             "Value": {
                 "id": "5ce2df63-caf3-4f35-bd3f-5b28683c9e0c",
-                "resourcePath": "sprites\\spr_BlockOutFront\\spr_BlockOutFront.yy",
+                "resourcePath": "sprites\\spr_room1Front\\spr_room1Front.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2234,7 +2234,7 @@
             "Key": "f2b70014-a20e-4005-895b-95ad171bd421",
             "Value": {
                 "id": "4e9f95e2-d31c-4cd5-89ee-3ddca6b33fb8",
-                "resourcePath": "sprites\\spr_BlockOutRear\\spr_BlockOutRear.yy",
+                "resourcePath": "sprites\\spr_room1Rear\\spr_room1Rear.yy",
                 "resourceType": "GMSprite"
             }
         },
