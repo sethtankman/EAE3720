@@ -1,26 +1,26 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(global.radioOverlay == false) {
-// disables click overlay
-if (clicked_overlay != noone)
-{
-	instance_destroy(clicked_overlay);
-	clicked_overlay = noone;
-}
-
-if (global.activeRune != noone)
-{
-	halfRuneHeight = rune.sprite_height / 2;
-	halfRuneWidth = rune.sprite_width / 2;
-	halfLetterHeight = 175 / 2;
-	halfLetterWidth = 175 / 2;
-	prevVal = -1;
-	if (global.runeInstances[global.activeRune.runeIndex] != noone)
+	// disables click overlay
+	if (clicked_overlay != noone)
 	{
-		prevVal = global.runeInstances[global.activeRune.runeIndex].image_index;
-		instance_destroy(global.runeInstances[global.activeRune.runeIndex]);
-		global.runeInstances[global.activeRune.runeIndex] = noone;
+		instance_destroy(clicked_overlay);
+		clicked_overlay = noone;
 	}
+
+	if (global.activeRune != noone)
+	{
+		halfRuneHeight = rune.sprite_height / 2;
+		halfRuneWidth = rune.sprite_width / 2;
+		halfLetterHeight = 175 / 2;
+		halfLetterWidth = 175 / 2;
+		prevVal = -1;
+		if (global.runeInstances[global.activeRune.runeIndex] != noone)
+		{
+			prevVal = global.runeInstances[global.activeRune.runeIndex].image_index;
+			instance_destroy(global.runeInstances[global.activeRune.runeIndex]);
+			global.runeInstances[global.activeRune.runeIndex] = noone;
+		}
 	
 	//if (prevVal != image_index)
 	//{
@@ -34,5 +34,5 @@ if (global.activeRune != noone)
 	
 	// De-selects the rune
 	//global.activeRune = noone;
-}
+	}
 }

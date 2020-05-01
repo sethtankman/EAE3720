@@ -1,0 +1,1 @@
+audio_play_sound(orc_chime1, 1, false);

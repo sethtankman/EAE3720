@@ -2,7 +2,7 @@
 {
     "name": "YouWinStandIn",
     "id": "e6a24b04-4747-471a-a25e-202abb8bb3cc",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

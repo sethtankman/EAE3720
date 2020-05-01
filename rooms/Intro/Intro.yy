@@ -2,7 +2,7 @@
 {
     "name": "Intro",
     "id": "ca203298-9c8f-4438-937e-c5260bc14188",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

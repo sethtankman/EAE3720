@@ -2,7 +2,7 @@
 {
     "name": "tileRoomDoorOpenAnimation",
     "id": "e9789c71-7fb7-40bf-8dd1-f899e152ebb3",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

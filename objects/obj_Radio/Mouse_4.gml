@@ -2,6 +2,7 @@
 //Sets the variables for the opening textbox.
 //parse the string input in variable definitions
 if(global.radioOverlay == false) {
+	audio_play_sound(blip_stab_bleep, 1, false);
 	start = string_pos("-", dialogue);
 	index = 0;
 	while (start != 0) {

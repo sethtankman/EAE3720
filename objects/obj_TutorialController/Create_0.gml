@@ -1,5 +1,6 @@
 //Sets the variables for the opening textbox.
 global.radioOverlay = true;
+audio_play_sound(exotic_start, 1, false);
 myText[0] = "Click on the arrow buttons to look around the room for clues. (Press enter to continue)";
 myText[1] = "You can click on different objects around the room to interact with them.";
 myText[2] = "Best of luck!";
