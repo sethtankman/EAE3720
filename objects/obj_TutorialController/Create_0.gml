@@ -12,4 +12,4 @@ myTextBox.creator = self;
 myTextBox.name = myName;
 
 //Music to play:
-audio_play_sound(music_ancientpath_loop, 1, true);
+audio_play_sound(snd_room1BG, 1, true);
