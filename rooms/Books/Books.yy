@@ -7,14 +7,16 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "63bb6672-e186-49c3-9d84-95e8a586263d"
+        "63bb6672-e186-49c3-9d84-95e8a586263d",
+        "797cd15d-118f-4c6d-8fb3-54c3c9196ccf",
+        "494cfe57-6bfe-4d93-9dc3-f0b1602286df"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
-            "id": "232119f6-719b-4431-a543-003bd8c23df2",
+            "name": "TextBoxLayer",
+            "id": "5be4862a-4f41-4358-aa34-20df66c31df1",
             "depth": 0,
             "grid_x": 32,
             "grid_y": 32,
@@ -25,7 +27,35 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_26C10699","id": "63bb6672-e186-49c3-9d84-95e8a586263d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_26C10699","objId": "2590bda1-9bb7-4b42-94c8-dca139434882","properties": [{"id": "d7bfab01-7086-4694-99ec-20804a063f23","modelName": "GMOverriddenProperty","objectId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","propertyId": "81d774ac-9d2d-4d22-966c-7f0a02b92378","mvc": "1.0","value": "room2_Rear"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 768,"y": 928}
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instances",
+            "id": "232119f6-719b-4431-a543-003bd8c23df2",
+            "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_26C10699","id": "63bb6672-e186-49c3-9d84-95e8a586263d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_26C10699","objId": "2590bda1-9bb7-4b42-94c8-dca139434882","properties": [{"id": "d7bfab01-7086-4694-99ec-20804a063f23","modelName": "GMOverriddenProperty","objectId": "28004d02-3d50-49c4-b44e-0c775a9cc1c7","propertyId": "81d774ac-9d2d-4d22-966c-7f0a02b92378","mvc": "1.0","value": "room2_Rear"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 768,"y": 928},
+{"name": "inst_1972A93F","id": "797cd15d-118f-4c6d-8fb3-54c3c9196ccf","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1972A93F","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "c2f329e8-4bc0-4340-82f4-8782c2f69b49","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: I found a big book. Should I try to read it?-  -Mel: You should be reading everything you can Qvo.- -Qvo: Wait, never mind. It's not in English.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830},
+{"name": "inst_58C60C6C","id": "494cfe57-6bfe-4d93-9dc3-f0b1602286df","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_58C60C6C","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "4971a064-b910-43ed-b320-9ad939ad9aa9","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: This book is big enough to crush a . . .  well I was going to say cat but it's big enough to crush me.-"}],"rotation": 0,"scaleX": 9,"scaleY": 8.5,"mvc": "1.1","x": 1024,"y": 352}
             ],
             "layers": [
 
@@ -44,7 +74,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
