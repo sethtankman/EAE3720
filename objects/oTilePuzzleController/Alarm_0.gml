@@ -15,7 +15,8 @@ for (i = 0; i < solutionCount; i++)
 	if (isCorrect)
 	{
 		global.isTilePuzzleSolved = true;
-		room_goto(tileRoomDoorOpenAnimation);
+		//room_goto(tileRoomDoorOpenAnimation);
+		room_goto(room1_Rear);
 	}
 }
 
