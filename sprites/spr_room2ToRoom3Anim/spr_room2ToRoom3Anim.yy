@@ -2674,7 +2674,7 @@
     ],
     "origin": 0,
     "originLocked": false,
-    "playbackSpeed": 30,
+    "playbackSpeed": 24,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
     "sepmasks": false,
