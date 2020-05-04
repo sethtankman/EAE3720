@@ -5,6 +5,7 @@ if (global.activeRune != noone && global.runeInstances[global.activeRune.runeInd
 {
 	instance_destroy(global.runeInstances[global.activeRune.runeIndex]);
 	global.runeInstances[global.activeRune.runeIndex] = noone;
+	global.runePuzzleLetters[global.activeRune.runeIndex] = -1;
 }
 
 // De-selects the rune
