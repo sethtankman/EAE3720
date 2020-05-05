@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "8d18526b-db53-487d-8dea-5b779dc0c12f",
         "f4879cc9-07e2-40f8-ad8b-f01dbfe2154c",
-        "316fbb63-44a5-444d-b32b-db34a827bf03"
+        "316fbb63-44a5-444d-b32b-db34a827bf03",
+        "8ddf5555-1827-40f2-8da5-f649ffe78fb9"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_1E1325D0","id": "316fbb63-44a5-444d-b32b-db34a827bf03","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1E1325D0","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "e68e36c3-eb83-4173-a706-98015a950198","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Weird that the title on the plaque is Red Blood but the text is actually about bones.-"}],"rotation": 0,"scaleX": 16,"scaleY": 5,"mvc": "1.1","x": 416,"y": 576}
+{"name": "inst_1E1325D0","id": "316fbb63-44a5-444d-b32b-db34a827bf03","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1E1325D0","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "e68e36c3-eb83-4173-a706-98015a950198","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Weird that the title on the plaque is Red Blood but the text is actually about bones.-"}],"rotation": 0,"scaleX": 16,"scaleY": 5,"mvc": "1.1","x": 416,"y": 576},
+{"name": "inst_51840D4","id": "8ddf5555-1827-40f2-8da5-f649ffe78fb9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_51840D4","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

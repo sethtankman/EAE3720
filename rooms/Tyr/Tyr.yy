@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "364efd99-dfa9-457f-87cb-e38334a072dc",
         "dd84bf52-975e-4750-9113-bfec06a19729",
-        "d70541c7-0428-422e-9527-a3e58b105207"
+        "d70541c7-0428-422e-9527-a3e58b105207",
+        "35d7d783-79a8-4e92-bd79-4dc584d9e61b"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_2F779B7F","id": "d70541c7-0428-422e-9527-a3e58b105207","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2F779B7F","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "a16aff72-f9ae-4a80-bb7d-28124ae74e67","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Tyr? For a deity we've named a day of the week after, the plaque doesn't have much to say about him.-"}],"rotation": 0,"scaleX": 11,"scaleY": 9,"mvc": "1.1","x": 608,"y": 32}
+{"name": "inst_2F779B7F","id": "d70541c7-0428-422e-9527-a3e58b105207","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2F779B7F","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "a16aff72-f9ae-4a80-bb7d-28124ae74e67","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Tyr? For a deity we've named a day of the week after, the plaque doesn't have much to say about him.-"}],"rotation": 0,"scaleX": 11,"scaleY": 9,"mvc": "1.1","x": 608,"y": 32},
+{"name": "inst_CAD48B7","id": "35d7d783-79a8-4e92-bd79-4dc584d9e61b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_CAD48B7","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

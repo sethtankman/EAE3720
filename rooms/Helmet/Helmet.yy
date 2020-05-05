@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "25563304-656d-4c8e-8bc2-e37a6c36efc3",
         "c19dfb8f-8057-4522-9359-a7592ca80f09",
-        "9cc96331-dd1b-41e5-945c-310271c36f1a"
+        "9cc96331-dd1b-41e5-945c-310271c36f1a",
+        "74adb816-7167-416c-964f-95bc000aa09f"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_104FA045","id": "9cc96331-dd1b-41e5-945c-310271c36f1a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_104FA045","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "e951fefe-631e-42a1-b995-b39d494fef0d","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: This will help you keep ahead. I wonder if I can headbutt down the door with this on...-"}],"rotation": 0,"scaleX": 8.5,"scaleY": 9,"mvc": "1.1","x": 1120,"y": 256}
+{"name": "inst_104FA045","id": "9cc96331-dd1b-41e5-945c-310271c36f1a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_104FA045","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "e951fefe-631e-42a1-b995-b39d494fef0d","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: This will help you keep ahead. I wonder if I can headbutt down the door with this on...-"}],"rotation": 0,"scaleX": 8.5,"scaleY": 9,"mvc": "1.1","x": 1120,"y": 256},
+{"name": "inst_B390499","id": "74adb816-7167-416c-964f-95bc000aa09f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_B390499","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

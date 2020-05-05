@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "6437ab58-015a-4028-b2ec-2fa813428a5e",
         "829005a3-2bff-45fc-8f87-98f61df33a16",
-        "9d176dbf-88b3-4a45-9999-59192a630c52"
+        "9d176dbf-88b3-4a45-9999-59192a630c52",
+        "8fade491-1a19-43f0-80b4-30cc7b109c8e"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_5720D292","id": "9d176dbf-88b3-4a45-9999-59192a630c52","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5720D292","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "435f0d9a-92fe-46e5-9ba5-e61065be98bd","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: The symbol is called Bluetooth but it kind of looks like a sideways superhero mask or something to me.-"}],"rotation": 0,"scaleX": 13.5,"scaleY": 8,"mvc": "1.1","x": 64,"y": 352}
+{"name": "inst_5720D292","id": "9d176dbf-88b3-4a45-9999-59192a630c52","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5720D292","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "435f0d9a-92fe-46e5-9ba5-e61065be98bd","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: The symbol is called Bluetooth but it kind of looks like a sideways superhero mask or something to me.-"}],"rotation": 0,"scaleX": 13.5,"scaleY": 8,"mvc": "1.1","x": 64,"y": 352},
+{"name": "inst_AC19121","id": "8fade491-1a19-43f0-80b4-30cc7b109c8e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_AC19121","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

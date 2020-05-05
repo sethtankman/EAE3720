@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "157aca9b-26b3-4680-a59f-82105a493804",
         "5f5505a0-2f3f-4702-83eb-421e45ccb8e5",
-        "d2a79bb3-d675-43c5-9259-5778b8541e5c"
+        "d2a79bb3-d675-43c5-9259-5778b8541e5c",
+        "29379489-7596-4488-8904-99d3a4913ea2"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_6F3417A1","id": "d2a79bb3-d675-43c5-9259-5778b8541e5c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6F3417A1","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "2c7ab016-cf74-47b7-bca1-1e50fca818fe","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Bead necklaces in Scandinavia were popular displays of wealth because of their colors and rarity. I hear they're commonly found in ancient graves from the region.-"}],"rotation": 0,"scaleX": 12,"scaleY": 5.5,"mvc": "1.1","x": 608,"y": 544}
+{"name": "inst_6F3417A1","id": "d2a79bb3-d675-43c5-9259-5778b8541e5c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6F3417A1","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "2c7ab016-cf74-47b7-bca1-1e50fca818fe","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Bead necklaces in Scandinavia were popular displays of wealth because of their colors and rarity. I hear they're commonly found in ancient graves from the region.-"}],"rotation": 0,"scaleX": 12,"scaleY": 5.5,"mvc": "1.1","x": 608,"y": 544},
+{"name": "inst_24070ED9","id": "29379489-7596-4488-8904-99d3a4913ea2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_24070ED9","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

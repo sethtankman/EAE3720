@@ -879,6 +879,14 @@
             }
         },
         {
+            "Key": "5af3a480-5007-4433-b72c-790498a1e7ff",
+            "Value": {
+                "id": "0812155b-53f0-45a3-ad58-2197778e365e",
+                "resourcePath": "objects\\obj_QuitGame\\obj_QuitGame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5bc9ba8e-065d-49da-bd5e-1fd5028bb280",
             "Value": {
                 "id": "2d7e6dfd-70ce-409f-8796-007fcab9cfec",

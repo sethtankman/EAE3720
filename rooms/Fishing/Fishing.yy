@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "acb2e8c5-df17-4fcb-bf03-43d64281632e",
         "2ee8bd1b-2ef1-4c18-bb50-d209aa99665e",
-        "2f6adc70-14d5-460d-9bfa-f5824506ea48"
+        "2f6adc70-14d5-460d-9bfa-f5824506ea48",
+        "fd47c13d-2d96-43a3-9135-b28a40b69741"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_1743EF7F","id": "2f6adc70-14d5-460d-9bfa-f5824506ea48","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1743EF7F","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "4004282e-9fdc-4a73-a3e0-8c7558cb45d0","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: If I wasn't so scared, I could really get hooked on learning about this stuff.-"}],"rotation": 0,"scaleX": 25.5,"scaleY": 5,"mvc": "1.1","x": 64,"y": 608}
+{"name": "inst_1743EF7F","id": "2f6adc70-14d5-460d-9bfa-f5824506ea48","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1743EF7F","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "4004282e-9fdc-4a73-a3e0-8c7558cb45d0","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: If I wasn't so scared, I could really get hooked on learning about this stuff.-"}],"rotation": 0,"scaleX": 25.5,"scaleY": 5,"mvc": "1.1","x": 64,"y": 608},
+{"name": "inst_5127701C","id": "fd47c13d-2d96-43a3-9135-b28a40b69741","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5127701C","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

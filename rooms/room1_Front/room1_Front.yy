@@ -12,7 +12,8 @@
         "bc256bf5-4f35-433a-b83d-716f5adacd39",
         "de36d6c8-ad57-43bf-ad7d-2eac896d6e46",
         "5d9525bd-0c32-4ab1-be49-d557dbdd1da1",
-        "a3ccc250-0f07-42b1-8f5f-1b7454dca9f2"
+        "a3ccc250-0f07-42b1-8f5f-1b7454dca9f2",
+        "e99d9729-f60c-4497-98b5-91081e22e6ee"
     ],
     "IsDnD": false,
     "layers": [
@@ -31,7 +32,8 @@
             "inheritVisibility": false,
             "instances": [
 {"name": "inst_789FEADD","id": "889392c7-3193-486c-94fb-27771943067c","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_789FEADD","objId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","properties": [{"id": "a2cb7acf-2a12-433a-a754-b2c9d6ec5f29","modelName": "GMOverriddenProperty","objectId": "9665490d-d82a-44cb-8e86-5c9d8e5508e1","propertyId": "2a895d1b-b7b6-47cc-ae5b-d8f755d71bcc","mvc": "1.0","value": "Axe"}],"rotation": 0,"scaleX": 7,"scaleY": 5,"mvc": "1.1","x": 320,"y": 480},
-{"name": "inst_5965741A","id": "a3ccc250-0f07-42b1-8f5f-1b7454dca9f2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5965741A","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "a8c9dabd-4cf5-48b0-acf8-6125d7aef7b8","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: Hey, didn't that first room have some roman numerals on a poster?- -Mel: Oh yeah it did. You said they read 1885 right?- -Qvo: I'll give it a shot in the combination lock!- -Mel: Did it work?- -Qvo: No.- -Mel: The answer must be somewhere in here then.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
+{"name": "inst_5965741A","id": "a3ccc250-0f07-42b1-8f5f-1b7454dca9f2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5965741A","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "a8c9dabd-4cf5-48b0-acf8-6125d7aef7b8","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: Hey, didn't that first room have some roman numerals on a poster?- -Mel: Oh yeah it did. You said they read 1885 right?- -Qvo: I'll give it a shot in the combination lock!- -Mel: Did it work?- -Qvo: No.- -Mel: The answer must be somewhere in here then.-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830},
+{"name": "inst_3C5E2E6","id": "e99d9729-f60c-4497-98b5-91081e22e6ee","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3C5E2E6","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "e708418c-b2c3-4866-b675-2476ef585b56",
         "618f4928-e601-4d97-89dc-3b0b0384b184",
-        "bb0af593-d26e-43b0-a5d4-7a87eba0d026"
+        "bb0af593-d26e-43b0-a5d4-7a87eba0d026",
+        "98fe89e3-6768-4355-9f0a-98c82de1061d"
     ],
     "IsDnD": false,
     "layers": [
@@ -27,7 +28,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_5E2C7626","id": "bb0af593-d26e-43b0-a5d4-7a87eba0d026","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5E2C7626","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "d7b4b9ee-cb26-4fa5-943b-0a847c779e67","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Characterum in hac mappa? Yeah I can't read this map.-"}],"rotation": 0,"scaleX": 12.5,"scaleY": 13.5,"mvc": "1.1","x": 928,"y": 64}
+{"name": "inst_5E2C7626","id": "bb0af593-d26e-43b0-a5d4-7a87eba0d026","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5E2C7626","objId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","properties": [{"id": "d7b4b9ee-cb26-4fa5-943b-0a847c779e67","modelName": "GMOverriddenProperty","objectId": "89d7556e-cd36-4d71-b7e9-f592ff93b9b5","propertyId": "748730ed-cf76-48e3-8bae-787054c17893","mvc": "1.0","value": "-Qvo: Characterum in hac mappa? Yeah I can't read this map.-"}],"rotation": 0,"scaleX": 12.5,"scaleY": 13.5,"mvc": "1.1","x": 928,"y": 64},
+{"name": "inst_63F7F2A8","id": "98fe89e3-6768-4355-9f0a-98c82de1061d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_63F7F2A8","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 

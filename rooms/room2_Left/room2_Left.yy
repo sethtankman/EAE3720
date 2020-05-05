@@ -10,7 +10,8 @@
         "4ccf71bc-9a33-49da-9d9b-4724376aa07d",
         "099f36f8-839e-48de-b140-b87355df834c",
         "2850330c-d28d-4d3f-bbbe-f99ce1a652da",
-        "2f0416a4-c803-4a54-8bdd-2444de1d20da"
+        "2f0416a4-c803-4a54-8bdd-2444de1d20da",
+        "f19091aa-353b-4443-87b7-0c01097de7b6"
     ],
     "IsDnD": false,
     "layers": [
@@ -28,7 +29,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_48D2D5DF","id": "2f0416a4-c803-4a54-8bdd-2444de1d20da","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_48D2D5DF","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "3b230caf-4cda-40ca-8bd5-8230cf4ebaab","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: It's a big picture of a boat!- -Mel: Is there anything you can read about it nearby?-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830}
+{"name": "inst_48D2D5DF","id": "2f0416a4-c803-4a54-8bdd-2444de1d20da","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_48D2D5DF","objId": "ff36b387-8176-47b0-a804-e07d48cf3244","properties": [{"id": "3b230caf-4cda-40ca-8bd5-8230cf4ebaab","modelName": "GMOverriddenProperty","objectId": "ff36b387-8176-47b0-a804-e07d48cf3244","propertyId": "1912656d-241c-4771-a5ac-188eb43fe825","mvc": "1.0","value": "-Qvo: It's a big picture of a boat!- -Mel: Is there anything you can read about it nearby?-"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 1690,"y": 830},
+{"name": "inst_4BF346B9","id": "f19091aa-353b-4443-87b7-0c01097de7b6","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_4BF346B9","objId": "5af3a480-5007-4433-b72c-790498a1e7ff","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 
