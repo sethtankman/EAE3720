@@ -9,6 +9,8 @@ if(keyboard_check_pressed(vk_enter)) {
 		page += 1;
 		charCount = 0;
 	} else {
+		global.radioTextbox = false;
+		creator.alarm[0] = 1;
 		instance_destroy();
 		creator.alarm[1] = 1;
 	}
